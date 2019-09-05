@@ -1,12 +1,9 @@
-<img align="right" width="200" src="https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/preview.png" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/raphaelM-sudo/ngx-emoji-mart/master/misc/preview.png" />
 
-# ngx-emoji-mart
+# ngx-emoji-mart-picker
 
-[![npm](https://badge.fury.io/js/%40ctrl%2Fngx-emoji-mart.svg)](https://www.npmjs.org/package/@ctrl/ngx-emoji-mart)
-[![travis](https://travis-ci.org/TypeCtrl/ngx-emoji-mart.svg?branch=master)](https://travis-ci.org/TypeCtrl/ngx-emoji-mart)
-[![codecov](https://img.shields.io/codecov/c/github/typectrl/ngx-emoji-mart.svg)](https://codecov.io/github/typectrl/ngx-emoji-mart)
+**This is a fork with a few changes to the displayed emoji names of**: [TypeCtrl/ngx-emoji-mart-picker](https://github.com/TypeCtrl/ngx-emoji-mart-picker)
 
-**DEMO**: https://ngx-emoji-mart.netlify.com/
 
 This project is a port of [emoji-mart](https://github.com/missive/emoji-mart) by missive
 
@@ -22,14 +19,14 @@ This project is a port of [emoji-mart](https://github.com/missive/emoji-mart) by
 ## Installation
 
 ```sh
-npm install @ctrl/ngx-emoji-mart
+npm install ngx-emoji-mart-picker
 ```
 
 ## Dependencies
 
 Latest version available for each version of Angular
 
-| @ctrl/ngx-emoji-mart | Angular |
+| ngx-emoji-mart-picker | Angular |
 | -------------------- | ------- |
 | 0.17.0               | 6.x 7.x |
 | 1.0.0                | >8      |
@@ -41,13 +38,13 @@ Latest version available for each version of Angular
 Import Module in ngModule
 
 ```ts
-import { PickerModule } from '@ctrl/ngx-emoji-mart';
+import { PickerModule } from 'ngx-emoji-mart-picker';
 ```
 
 Import styles in styles.scss if using SASS
 
 ```scss
-@import '~@ctrl/ngx-emoji-mart/picker';
+@import '~ngx-emoji-mart-picker/picker';
 ```
 
 Or angular-cli can also include it via angular-cli.json
@@ -55,7 +52,7 @@ Or angular-cli can also include it via angular-cli.json
 ```
 "styles": [
   "styles.scss",
-  "../node_modules/@ctrl/ngx-emoji-mart/picker.css"
+  "../node_modules/ngx-emoji-mart-picker/picker.css"
 ]
 ```
 
@@ -205,7 +202,7 @@ Sheets are served from [unpkg](https://unpkg.com), a global CDN that serves file
 ### Emoji
 
 ```ts
-import { EmojiModule } from '@ctrl/ngx-emoji-mart/ngx-emoji';
+import { EmojiModule } from 'ngx-emoji-mart-picker/ngx-emoji';
 ```
 
 ```html
@@ -290,7 +287,7 @@ const customEmojis = [
 The `Picker` doesn’t have to be mounted for you to take advantage of the advanced search results.
 
 ```ts
-import { EmojiSearch } from '@ctrl/ngx-emoji-mart';
+import { EmojiSearch } from 'ngx-emoji-mart-picker';
 class ex {
   constructor(private emojiSearch: EmojiSearch) {
     this.emojiSearch.search('christmas').map(o => o.native);
@@ -329,39 +326,39 @@ Possible keys are:
 
 Not only does **Emoji Mart** return more results than most emoji picker, they’re more accurate and sorted by relevance.
 
-<img width="338" alt="summer" src="https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/emoticons.png">
+<img width="338" alt="summer" src="https://raw.githubusercontent.com/raphaelM-sudo/ngx-emoji-mart/master/misc/emoticons.png">
 
 #### Emoticons
 
 The only emoji picker that returns emojis when searching for emoticons.
 
-<img width="338" alt="emoticons" src="https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/emoticons.png">
+<img width="338" alt="emoticons" src="https://raw.githubusercontent.com/raphaelM-sudo/ngx-emoji-mart/master/misc/emoticons.png">
 
 ### Fully customizable
 
 #### Anchors color, title and default emoji
 
-<img width="338" alt="customizable-color" src="https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/customizable-color.png"><br><img width="338" alt="pick-your-emoji" src="https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/pick-your-emoji.png">
+<img width="338" alt="customizable-color" src="https://raw.githubusercontent.com/raphaelM-sudo/ngx-emoji-mart/master/misc/customizable-color.png"><br><img width="338" alt="pick-your-emoji" src="https://raw.githubusercontent.com/raphaelM-sudo/ngx-emoji-mart/master/misc/pick-your-emoji.png">
 
 #### Emojis sizes and length
 
-<img width="296" alt="size-and-length" src="https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/size-and-length.png">
+<img width="296" alt="size-and-length" src="https://raw.githubusercontent.com/raphaelM-sudo/ngx-emoji-mart/master/misc/size-and-length.png">
 
 #### Default skin color
 
 As the developer, you have control over which skin color is used by default.
 
-<img width="205" alt="skins" src="https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/skins.png">
+<img width="205" alt="skins" src="https://raw.githubusercontent.com/raphaelM-sudo/ngx-emoji-mart/master/misc/skins.png">
 
 It can however be overwritten as per user preference.
 
-<img width="98" alt="customizable-skin" src="https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/customizable-skin.png">
+<img width="98" alt="customizable-skin" src="https://raw.githubusercontent.com/raphaelM-sudo/ngx-emoji-mart/master/misc/customizable-skin.png">
 
 #### Multiple sets supported
 
 Apple / Google / Twitter / EmojiOne / Messenger / Facebook
 
-<img width="214" alt="sets" src="https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/sets.png">
+<img width="214" alt="sets" src="https://raw.githubusercontent.com/raphaelM-sudo/ngx-emoji-mart/master/misc/sets.png">
 
 ---
 

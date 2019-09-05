@@ -1,6 +1,6 @@
 {
   "$schema": "../../../node_modules/ng-packagr/package.schema.json",
-  "name": "@ctrl/ngx-emoji-mart",
+  "name": "ngx-emoji-mart-picker",
   "version": "0.0.0",
   "publishConfig": {
     "access": "public"
@@ -10,9 +10,9 @@
     "@angular/core": ">=8.0.0-0",
     "@angular/common": ">=8.0.0-0"
   },
-  "bugs": "https://github.com/TypeCtrl/ngx-emoji-mart/issues",
-  "homepage": "https://github.com/TypeCtrl/ngx-emoji-mart",
-  "repository": "TypeCtrl/ngx-emoji-mart",
+  "bugs": "https://github.com/raphaelM-sudo/ngx-emoji-mart/issues",
+  "homepage": "https://github.com/raphaelM-sudo/ngx-emoji-mart",
+  "repository": "raphaelM-sudo/ngx-emoji-mart",
   "license": "MIT",
   "sideEffects": [ "*.css" ],
   "ngPackage": {
@@ -20,7 +20,7 @@
       "entryFile": "public_api.ts",
       "languageLevel": ["dom", "es2017"],
       "umdModuleIds": {
-        "@ctrl/ngx-emoji-mart/ngx-emoji": "@ctrl/ngx-emoji-mart/ngx-emoji"
+        "ngx-emoji-mart-picker/ngx-emoji": "ngx-emoji-mart-picker/ngx-emoji"
       }
     },
     "dest": "../../../dist/picker"
