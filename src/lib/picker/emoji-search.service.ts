@@ -69,7 +69,7 @@ export class EmojiSearch {
         return [this.emojisList['+1']];
       }
 
-      let values = value.toLowerCase().split(/[\s|,|\-|_]+/);
+      let values = value.replace(/\*/g, '').toLowerCase().split(/[\s|,|\-|_]+/);
       let allResults = [];
 
       if (values.length > 2) {

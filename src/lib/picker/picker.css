@@ -196,8 +196,8 @@
 }
 
 .emoji-mart-preview-data {
-  left: 68px; right: 12px;
-  word-break: break-all;
+  left: 80px; right: 12px;
+  word-wrap: break-word;
 }
 
 .emoji-mart-preview-skins {
@@ -207,6 +207,7 @@
 
 .emoji-mart-preview-name {
   font-size: 14px;
+  margin-bottom: 2px;
 }
 
 .emoji-mart-preview-shortnames {
