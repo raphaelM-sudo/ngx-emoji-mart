@@ -3,14 +3,13 @@ export const emojis: CompressedEmojiData[] = [
   {
     name: 'Monkey Face',
     unified: '1F435',
-    emoticons: [':o)'],
     keywords: [
       'animal',
       'nature',
       'circus'
     ],
     sheet: [13, 31],
-    shortName: 'monkey_face'
+    shortName: 'monkey-face'
   },
   {
     name: 'Grinning Face',
@@ -43,7 +42,7 @@ export const emojis: CompressedEmojiData[] = [
       'international'
     ],
     sheet: [6, 5],
-    shortName: 'earth_africa'
+    shortName: 'earth-africa'
   },
   {
     name: 'Chequered Flag',
@@ -55,7 +54,7 @@ export const emojis: CompressedEmojiData[] = [
       'gokart'
     ],
     sheet: [9, 27],
-    shortName: 'checkered_flag'
+    shortName: 'checkered-flag'
   },
   {
     name: 'Speaker with Cancellation Stroke',
@@ -80,7 +79,7 @@ export const emojis: CompressedEmojiData[] = [
       'fall'
     ],
     sheet: [8, 17],
-    shortName: 'jack_o_lantern'
+    shortName: 'jack-o-lantern'
   },
   {
     name: 'Automated Teller Machine',
@@ -113,7 +112,7 @@ export const emojis: CompressedEmojiData[] = [
       'international'
     ],
     sheet: [6, 6],
-    shortName: 'earth_americas'
+    shortName: 'earth-americas'
   },
   {
     name: 'Grinning Face with Smiling Eyes',
@@ -148,7 +147,7 @@ export const emojis: CompressedEmojiData[] = [
       'place'
     ],
     sheet: [35, 14],
-    shortName: 'triangular_flag_on_post'
+    shortName: 'triangular-flag-on-post'
   },
   {
     name: 'Monkey',
@@ -173,7 +172,7 @@ export const emojis: CompressedEmojiData[] = [
       'celebration'
     ],
     sheet: [8, 18],
-    shortName: 'christmas_tree'
+    shortName: 'christmas-tree'
   },
   {
     name: 'Emoji Modifier Fitzpatrick Type-3',
@@ -192,7 +191,7 @@ export const emojis: CompressedEmojiData[] = [
       'info'
     ],
     sheet: [35, 19],
-    shortName: 'put_litter_in_its_place'
+    shortName: 'put-litter-in-its-place'
   },
   {
     name: 'Speaker',
@@ -216,7 +215,7 @@ export const emojis: CompressedEmojiData[] = [
       'international'
     ],
     sheet: [6, 7],
-    shortName: 'earth_asia'
+    shortName: 'earth-asia'
   },
   {
     name: 'Crossed Flags',
@@ -228,7 +227,7 @@ export const emojis: CompressedEmojiData[] = [
       'border'
     ],
     sheet: [8, 31],
-    shortName: 'crossed_flags'
+    shortName: 'crossed-flags'
   },
   {
     name: 'Face with Tears of Joy',
@@ -303,7 +302,7 @@ export const emojis: CompressedEmojiData[] = [
       'faucet'
     ],
     sheet: [35, 21],
-    shortName: 'potable_water'
+    shortName: 'potable-water'
   },
   {
     name: 'Emoji Modifier Fitzpatrick Type-4',
@@ -329,7 +328,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F923',
     sheet: [38, 26],
     hidden: ['messenger'],
-    shortName: 'rolling_on_the_floor_laughing'
+    shortName: 'rolling-on-the-floor-laughing'
   },
   {
     name: 'Speaker with Three Sound Waves',
@@ -342,14 +341,14 @@ export const emojis: CompressedEmojiData[] = [
       'broadcast'
     ],
     sheet: [27, 12],
-    shortName: 'loud_sound'
+    shortName: 'loud-sound'
   },
   {
     name: 'Waving Black Flag',
     unified: '1F3F4',
     sheet: [12, 19],
     hidden: ['messenger'],
-    shortName: 'waving_black_flag'
+    shortName: 'waving-black-flag'
   },
   {
     name: 'Tangerine',
@@ -408,7 +407,7 @@ export const emojis: CompressedEmojiData[] = [
       'i18n'
     ],
     sheet: [6, 8],
-    shortName: 'globe_with_meridians'
+    shortName: 'globe-with-meridians'
   },
   {
     name: 'Emoji Modifier Fitzpatrick Type-6',
@@ -476,7 +475,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3F3-FE0F',
     sheet: [12, 15],
     hidden: ['messenger'],
-    shortName: 'waving_white_flag'
+    shortName: 'waving-white-flag'
   },
   {
     name: 'World Map',
@@ -484,7 +483,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['location', 'direction'],
     sheet: [30, 18],
     hidden: ['messenger'],
-    shortName: 'world_map'
+    shortName: 'world-map'
   },
   {
     name: 'Lemon',
@@ -625,7 +624,7 @@ export const emojis: CompressedEmojiData[] = [
       'relief'
     ],
     sheet: [30, 29],
-    shortName: 'sweat_smile'
+    shortName: 'sweat-smile'
   },
   {
     name: 'Pineapple',
@@ -656,7 +655,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F4EF',
     keywords: ['instrument', 'music'],
     sheet: [26, 38],
-    shortName: 'postal_horn'
+    shortName: 'postal-horn'
   },
   {
     name: 'Wolf Face',
@@ -688,7 +687,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3D4-FE0F',
     sheet: [11, 37],
     hidden: ['messenger'],
-    shortName: 'snow_capped_mountain'
+    shortName: 'snow-capped-mountain'
   },
   {
     name: 'Smiling Face with Open Mouth and Tightly-Closed Eyes',
@@ -736,7 +735,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [42, 34],
     hidden: ['messenger'],
-    shortName: 'fox_face'
+    shortName: 'fox-face'
   },
   {
     name: 'Confetti Ball',
@@ -748,7 +747,7 @@ export const emojis: CompressedEmojiData[] = [
       'circus'
     ],
     sheet: [8, 29],
-    shortName: 'confetti_ball'
+    shortName: 'confetti-ball'
   },
   {
     name: 'Bell',
@@ -783,7 +782,7 @@ export const emojis: CompressedEmojiData[] = [
       'child'
     ],
     sheet: [36, 32],
-    shortName: 'baby_symbol'
+    shortName: 'baby-symbol'
   },
   {
     name: 'Water Closet',
@@ -824,14 +823,14 @@ export const emojis: CompressedEmojiData[] = [
       'silent'
     ],
     sheet: [27, 23],
-    shortName: 'no_bell'
+    shortName: 'no-bell'
   },
   {
     name: 'Green Apple',
     unified: '1F34F',
     keywords: ['fruit', 'nature'],
     sheet: [7, 17],
-    shortName: 'green_apple'
+    shortName: 'green-apple'
   },
   {
     name: 'Tanabata Tree',
@@ -843,7 +842,7 @@ export const emojis: CompressedEmojiData[] = [
       'summer'
     ],
     sheet: [8, 30],
-    shortName: 'tanabata_tree'
+    shortName: 'tanabata-tree'
   },
   {
     name: 'United Arab Emirates Flag',
@@ -890,7 +889,7 @@ export const emojis: CompressedEmojiData[] = [
       'compose'
     ],
     sheet: [9, 22],
-    shortName: 'musical_score'
+    shortName: 'musical-score'
   },
   {
     name: 'Smiling Face with Smiling Eyes',
@@ -928,7 +927,7 @@ export const emojis: CompressedEmojiData[] = [
       'nature',
       'vegetable',
       'panda',
-      'pine_decoration'
+      'pine-decoration'
     ],
     sheet: [8, 32],
     shortName: 'bamboo'
@@ -938,7 +937,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F6C2',
     keywords: ['custom', 'blue-square'],
     sheet: [36, 43],
-    shortName: 'passport_control'
+    shortName: 'passport-control'
   },
   {
     name: 'Mount Fuji',
@@ -950,7 +949,7 @@ export const emojis: CompressedEmojiData[] = [
       'japanese'
     ],
     sheet: [30, 19],
-    shortName: 'mount_fuji'
+    shortName: 'mount-fuji'
   },
   {
     name: 'Cat',
@@ -973,7 +972,7 @@ export const emojis: CompressedEmojiData[] = [
       'sound'
     ],
     sheet: [9, 15],
-    shortName: 'musical_note'
+    shortName: 'musical-note'
   },
   {
     name: 'Japanese Dolls',
@@ -991,7 +990,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F981',
     sheet: [42, 25],
     hidden: ['messenger'],
-    shortName: 'lion_face'
+    shortName: 'lion-face'
   },
   {
     name: 'Camping',
@@ -1090,7 +1089,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3D6-FE0F',
     sheet: [11, 39],
     hidden: ['messenger'],
-    shortName: 'beach_with_umbrella'
+    shortName: 'beach-with-umbrella'
   },
   {
     name: 'Cherries',
@@ -1114,7 +1113,7 @@ export const emojis: CompressedEmojiData[] = [
       'transport'
     ],
     sheet: [36, 45],
-    shortName: 'baggage_claim'
+    shortName: 'baggage-claim'
   },
   {
     name: 'Smiling Face with Sunglasses',
@@ -1136,7 +1135,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F6C5',
     keywords: ['blue-square', 'travel'],
     sheet: [36, 46],
-    shortName: 'left_luggage'
+    shortName: 'left-luggage'
   },
   {
     name: 'Wind Chime',
@@ -1148,7 +1147,7 @@ export const emojis: CompressedEmojiData[] = [
       'bell'
     ],
     sheet: [8, 35],
-    shortName: 'wind_chime'
+    shortName: 'wind-chime'
   },
   {
     name: 'Strawberry',
@@ -1184,7 +1183,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [8, 41],
     hidden: ['messenger'],
-    shortName: 'studio_microphone'
+    shortName: 'studio-microphone'
   },
   {
     name: 'Albania Flag',
@@ -1217,7 +1216,7 @@ export const emojis: CompressedEmojiData[] = [
       'heart'
     ],
     sheet: [30, 37],
-    shortName: 'heart_eyes'
+    shortName: 'heart-eyes'
   },
   {
     name: 'Desert Island',
@@ -1229,7 +1228,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [11, 46],
     hidden: ['messenger'],
-    shortName: 'desert_island'
+    shortName: 'desert-island'
   },
   {
     name: 'Kiwifruit',
@@ -1248,7 +1247,7 @@ export const emojis: CompressedEmojiData[] = [
       'tsukimi'
     ],
     sheet: [8, 36],
-    shortName: 'rice_scene'
+    shortName: 'rice-scene'
   },
   {
     name: 'Face Throwing a Kiss',
@@ -1264,7 +1263,7 @@ export const emojis: CompressedEmojiData[] = [
       'kiss'
     ],
     sheet: [30, 48],
-    shortName: 'kissing_heart'
+    shortName: 'kissing-heart'
   },
   {
     name: 'Warning Sign',
@@ -1299,7 +1298,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['scale'],
     sheet: [8, 42],
     hidden: ['messenger'],
-    shortName: 'level_slider'
+    shortName: 'level-slider'
   },
   {
     name: 'Horse Face',
@@ -1324,7 +1323,7 @@ export const emojis: CompressedEmojiData[] = [
       'yellow-diamond'
     ],
     sheet: [36, 28],
-    shortName: 'children_crossing'
+    shortName: 'children-crossing'
   },
   {
     name: 'Ribbon',
@@ -1348,7 +1347,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [11, 47],
     hidden: ['messenger'],
-    shortName: 'national_park'
+    shortName: 'national-park'
   },
   {
     name: 'Control Knobs',
@@ -1356,7 +1355,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['dial'],
     sheet: [8, 43],
     hidden: ['messenger'],
-    shortName: 'control_knobs'
+    shortName: 'control-knobs'
   },
   {
     name: 'Kissing Face',
@@ -1436,7 +1435,7 @@ export const emojis: CompressedEmojiData[] = [
       'circle'
     ],
     sheet: [48, 35],
-    shortName: 'no_entry'
+    shortName: 'no-entry'
   },
   {
     name: 'Kissing Face with Smiling Eyes',
@@ -1449,7 +1448,7 @@ export const emojis: CompressedEmojiData[] = [
       'kiss'
     ],
     sheet: [30, 49],
-    shortName: 'kissing_smiling_eyes'
+    shortName: 'kissing-smiling-eyes'
   },
   {
     name: 'Coconut',
@@ -1498,7 +1497,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [11, 44],
     hidden: ['messenger'],
-    shortName: 'classical_building'
+    shortName: 'classical-building'
   },
   {
     name: 'No Entry Sign',
@@ -1512,7 +1511,7 @@ export const emojis: CompressedEmojiData[] = [
       'circle'
     ],
     sheet: [35, 16],
-    shortName: 'no_entry_sign'
+    shortName: 'no-entry-sign'
   },
   {
     name: 'Reminder Ribbon',
@@ -1525,7 +1524,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [8, 40],
     hidden: ['messenger'],
-    shortName: 'reminder_ribbon'
+    shortName: 'reminder-ribbon'
   },
   {
     name: 'Kissing Face with Closed Eyes',
@@ -1540,14 +1539,14 @@ export const emojis: CompressedEmojiData[] = [
       'kiss'
     ],
     sheet: [30, 50],
-    shortName: 'kissing_closed_eyes'
+    shortName: 'kissing-closed-eyes'
   },
   {
     name: 'Unicorn Face',
     unified: '1F984',
     sheet: [42, 28],
     hidden: ['messenger'],
-    shortName: 'unicorn_face'
+    shortName: 'unicorn-face'
   },
   {
     name: 'Argentina Flag',
@@ -1591,7 +1590,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F993',
     sheet: [42, 43],
     hidden: ['messenger'],
-    shortName: 'zebra_face'
+    shortName: 'zebra-face'
   },
   {
     name: 'Aubergine',
@@ -1627,7 +1626,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [11, 40],
     hidden: ['messenger'],
-    shortName: 'building_construction'
+    shortName: 'building-construction'
   },
   {
     name: 'American Samoa Flag',
@@ -1640,7 +1639,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F39F-FE0F',
     sheet: [8, 45],
     hidden: ['messenger'],
-    shortName: 'admission_tickets'
+    shortName: 'admission-tickets'
   },
   {
     name: 'No Bicycles',
@@ -1651,7 +1650,7 @@ export const emojis: CompressedEmojiData[] = [
       'circle'
     ],
     sheet: [35, 24],
-    shortName: 'no_bicycles'
+    shortName: 'no-bicycles'
   },
   {
     name: 'No Smoking Symbol',
@@ -1663,7 +1662,7 @@ export const emojis: CompressedEmojiData[] = [
       'smoke'
     ],
     sheet: [35, 18],
-    shortName: 'no_smoking'
+    shortName: 'no-smoking'
   },
   {
     name: 'Slightly Smiling Face',
@@ -1671,7 +1670,7 @@ export const emojis: CompressedEmojiData[] = [
     emoticons: [':)', '(:', ':-)'],
     keywords: ['face', 'smile'],
     sheet: [31, 38],
-    shortName: 'slightly_smiling_face'
+    shortName: 'slightly-smiling-face'
   },
   {
     name: 'Austria Flag',
@@ -1720,7 +1719,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3D8-FE0F',
     sheet: [11, 41],
     hidden: ['messenger'],
-    shortName: 'house_buildings'
+    shortName: 'house-buildings'
   },
   {
     name: 'Potato',
@@ -1782,14 +1781,14 @@ export const emojis: CompressedEmojiData[] = [
       'circle'
     ],
     sheet: [35, 20],
-    shortName: 'do_not_litter'
+    shortName: 'do-not-litter'
   },
   {
     name: 'Hugging Face',
     unified: '1F917',
     sheet: [37, 31],
     hidden: ['messenger'],
-    shortName: 'hugging_face'
+    shortName: 'hugging-face'
   },
   {
     name: 'Cow Face',
@@ -1821,7 +1820,7 @@ export const emojis: CompressedEmojiData[] = [
       'compose'
     ],
     sheet: [9, 19],
-    shortName: 'musical_keyboard'
+    shortName: 'musical-keyboard'
   },
   {
     name: 'Ear of Maize',
@@ -1839,7 +1838,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3DA-FE0F',
     sheet: [11, 43],
     hidden: ['messenger'],
-    shortName: 'derelict_house_building'
+    shortName: 'derelict-house-building'
   },
   {
     name: 'Non-Potable Water Symbol',
@@ -1851,7 +1850,7 @@ export const emojis: CompressedEmojiData[] = [
       'circle'
     ],
     sheet: [35, 22],
-    shortName: 'non-potable_water'
+    shortName: 'non-potable-water'
   },
   {
     name: 'Trophy',
@@ -1878,9 +1877,6 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F929',
     sheet: [38, 49],
     hidden: ['messenger'],
-    shortNames: [
-      'grinning_face_with_star_eyes'
-    ],
     shortName: 'star-struck'
   },
   {
@@ -1908,14 +1904,14 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [6, 44],
     hidden: ['messenger'],
-    shortName: 'hot_pepper'
+    shortName: 'hot-pepper'
   },
   {
     name: 'Sports Medal',
     unified: '1F3C5',
     sheet: [10, 18],
     hidden: ['messenger'],
-    shortName: 'sports_medal'
+    shortName: 'sports-medal'
   },
   {
     name: 'Åland Islands Flag',
@@ -1933,7 +1929,7 @@ export const emojis: CompressedEmojiData[] = [
       'cow'
     ],
     sheet: [12, 33],
-    shortName: 'water_buffalo'
+    shortName: 'water-buffalo'
   },
   {
     name: 'No Pedestrians',
@@ -1945,14 +1941,14 @@ export const emojis: CompressedEmojiData[] = [
       'circle'
     ],
     sheet: [36, 27],
-    shortName: 'no_pedestrians'
+    shortName: 'no-pedestrians'
   },
   {
     name: 'Thinking Face',
     unified: '1F914',
     sheet: [37, 28],
     hidden: ['messenger'],
-    shortName: 'thinking_face'
+    shortName: 'thinking-face'
   },
   {
     name: 'House Building',
@@ -1970,7 +1966,7 @@ export const emojis: CompressedEmojiData[] = [
       'circle'
     ],
     sheet: [26, 44],
-    shortName: 'no_mobile_phones'
+    shortName: 'no-mobile-phones'
   },
   {
     name: 'Azerbaijan Flag',
@@ -1983,7 +1979,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F947',
     sheet: [41, 42],
     hidden: ['messenger'],
-    shortName: 'first_place_medal'
+    shortName: 'first-place-medal'
   },
   {
     name: 'House with Garden',
@@ -1994,7 +1990,7 @@ export const emojis: CompressedEmojiData[] = [
       'nature'
     ],
     sheet: [11, 50],
-    shortName: 'house_with_garden'
+    shortName: 'house-with-garden'
   },
   {
     name: 'Violin',
@@ -2013,10 +2009,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F928',
     sheet: [38, 48],
     hidden: ['messenger'],
-    shortNames: [
-      'face_with_one_eyebrow_raised'
-    ],
-    shortName: 'face_with_raised_eyebrow'
+    shortName: 'face-with-raised-eyebrow'
   },
   {
     name: 'Cucumber',
@@ -2067,7 +2060,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F941',
     sheet: [41, 37],
     hidden: ['messenger'],
-    shortName: 'drum_with_drumsticks'
+    shortName: 'drum-with-drumsticks'
   },
   {
     name: 'No One Under Eighteen Symbol',
@@ -2111,7 +2104,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F948',
     sheet: [41, 43],
     hidden: ['messenger'],
-    shortName: 'second_place_medal'
+    shortName: 'second-place-medal'
   },
   {
     name: 'Neutral Face',
@@ -2124,14 +2117,14 @@ export const emojis: CompressedEmojiData[] = [
       'neutral'
     ],
     sheet: [30, 40],
-    shortName: 'neutral_face'
+    shortName: 'neutral-face'
   },
   {
     name: 'Third Place Medal',
     unified: '1F949',
     sheet: [41, 44],
     hidden: ['messenger'],
-    shortName: 'third_place_medal'
+    shortName: 'third-place-medal'
   },
   {
     name: 'Mushroom',
@@ -2151,7 +2144,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '2622-FE0F',
     sheet: [47, 33],
     hidden: ['messenger'],
-    shortName: 'radioactive_sign'
+    shortName: 'radioactive-sign'
   },
   {
     name: 'Pig',
@@ -2166,7 +2159,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: [
       'face',
       'indifferent',
-      '-_-',
+      '---',
       'meh',
       'deadpan'
     ],
@@ -2194,14 +2187,14 @@ export const emojis: CompressedEmojiData[] = [
       'communication'
     ],
     sheet: [12, 0],
-    shortName: 'post_office'
+    shortName: 'post-office'
   },
   {
     name: 'European Post Office',
     unified: '1F3E4',
     keywords: ['building', 'email'],
     sheet: [12, 1],
-    shortName: 'european_post_office'
+    shortName: 'european-post-office'
   },
   {
     name: 'Soccer Ball',
@@ -2237,7 +2230,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '2623-FE0F',
     sheet: [47, 34],
     hidden: ['messenger'],
-    shortName: 'biohazard_sign'
+    shortName: 'biohazard-sign'
   },
   {
     name: 'Bangladesh Flag',
@@ -2250,14 +2243,14 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F636',
     keywords: ['face', 'hellokitty'],
     sheet: [31, 26],
-    shortName: 'no_mouth'
+    shortName: 'no-mouth'
   },
   {
     name: 'Face with Rolling Eyes',
     unified: '1F644',
     sheet: [31, 40],
     hidden: ['messenger'],
-    shortName: 'face_with_rolling_eyes'
+    shortName: 'face-with-rolling-eyes'
   },
   {
     name: 'Black Telephone',
@@ -2277,7 +2270,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F43D',
     keywords: ['animal', 'oink'],
     sheet: [13, 39],
-    shortName: 'pig_nose'
+    shortName: 'pig-nose'
   },
   {
     name: 'Chestnut',
@@ -2296,7 +2289,7 @@ export const emojis: CompressedEmojiData[] = [
       'direction'
     ],
     sheet: [50, 18],
-    shortName: 'arrow_up'
+    shortName: 'arrow-up'
   },
   {
     name: 'Hospital',
@@ -2348,7 +2341,7 @@ export const emojis: CompressedEmojiData[] = [
       'northeast'
     ],
     sheet: [46, 36],
-    shortName: 'arrow_upper_right'
+    shortName: 'arrow-upper-right'
   },
   {
     name: 'Burkina Faso Flag',
@@ -2413,7 +2406,7 @@ export const emojis: CompressedEmojiData[] = [
       'dial'
     ],
     sheet: [26, 21],
-    shortName: 'telephone_receiver'
+    shortName: 'telephone-receiver'
   },
   {
     name: 'Croissant',
@@ -2455,7 +2448,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '27A1-FE0F',
     keywords: ['blue-square', 'next'],
     sheet: [50, 12],
-    shortName: 'arrow_right'
+    shortName: 'arrow-right'
   },
   {
     name: 'Persevering Face',
@@ -2505,7 +2498,7 @@ export const emojis: CompressedEmojiData[] = [
       'southeast'
     ],
     sheet: [46, 37],
-    shortName: 'arrow_lower_right'
+    shortName: 'arrow-lower-right'
   },
   {
     name: 'Goat',
@@ -2529,7 +2522,7 @@ export const emojis: CompressedEmojiData[] = [
       'dating'
     ],
     sheet: [12, 6],
-    shortName: 'love_hotel'
+    shortName: 'love-hotel'
   },
   {
     name: 'Disappointed but Relieved Face',
@@ -2541,7 +2534,7 @@ export const emojis: CompressedEmojiData[] = [
       'nervous'
     ],
     sheet: [31, 9],
-    shortName: 'disappointed_relieved'
+    shortName: 'disappointed-relieved'
   },
   {
     name: 'Baguette Bread',
@@ -2553,7 +2546,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [42, 2],
     hidden: ['messenger'],
-    shortName: 'baguette_bread'
+    shortName: 'baguette-bread'
   },
   {
     name: 'American Football',
@@ -2585,7 +2578,7 @@ export const emojis: CompressedEmojiData[] = [
       'groceries'
     ],
     sheet: [12, 7],
-    shortName: 'convenience_store'
+    shortName: 'convenience-store'
   },
   {
     name: 'Dromedary Camel',
@@ -2597,7 +2590,7 @@ export const emojis: CompressedEmojiData[] = [
       'hump'
     ],
     sheet: [13, 20],
-    shortName: 'dromedary_camel'
+    shortName: 'dromedary-camel'
   },
   {
     name: 'Downwards Black Arrow',
@@ -2608,7 +2601,7 @@ export const emojis: CompressedEmojiData[] = [
       'bottom'
     ],
     sheet: [50, 19],
-    shortName: 'arrow_down'
+    shortName: 'arrow-down'
   },
   {
     name: 'Battery',
@@ -2626,7 +2619,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3C9',
     keywords: ['sports', 'team'],
     sheet: [10, 27],
-    shortName: 'rugby_football'
+    shortName: 'rugby-football'
   },
   {
     name: 'Pretzel',
@@ -2658,7 +2651,7 @@ export const emojis: CompressedEmojiData[] = [
       ':O'
     ],
     sheet: [31, 18],
-    shortName: 'open_mouth'
+    shortName: 'open-mouth'
   },
   {
     name: 'Burundi Flag',
@@ -2720,7 +2713,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 24],
     hidden: ['messenger'],
-    shortName: 'zipper_mouth_face'
+    shortName: 'zipper-mouth-face'
   },
   {
     name: 'Bactrian Camel',
@@ -2745,21 +2738,21 @@ export const emojis: CompressedEmojiData[] = [
       'southwest'
     ],
     sheet: [46, 38],
-    shortName: 'arrow_lower_left'
+    shortName: 'arrow-lower-left'
   },
   {
     name: 'Electric Plug',
     unified: '1F50C',
     keywords: ['charger', 'power'],
     sheet: [27, 14],
-    shortName: 'electric_plug'
+    shortName: 'electric-plug'
   },
   {
     name: 'Cheese Wedge',
     unified: '1F9C0',
     sheet: [42, 48],
     hidden: ['messenger'],
-    shortName: 'cheese_wedge'
+    shortName: 'cheese-wedge'
   },
   {
     name: 'Hushed Face',
@@ -2786,7 +2779,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F992',
     sheet: [42, 42],
     hidden: ['messenger'],
-    shortName: 'giraffe_face'
+    shortName: 'giraffe-face'
   },
   {
     name: 'Billiards',
@@ -2817,7 +2810,7 @@ export const emojis: CompressedEmojiData[] = [
       'back'
     ],
     sheet: [50, 17],
-    shortName: 'arrow_left'
+    shortName: 'arrow-left'
   },
   {
     name: 'Department Store',
@@ -2828,7 +2821,7 @@ export const emojis: CompressedEmojiData[] = [
       'mall'
     ],
     sheet: [12, 9],
-    shortName: 'department_store'
+    shortName: 'department-store'
   },
   {
     name: 'Meat on Bone',
@@ -2839,7 +2832,7 @@ export const emojis: CompressedEmojiData[] = [
       'drumstick'
     ],
     sheet: [7, 24],
-    shortName: 'meat_on_bone'
+    shortName: 'meat-on-bone'
   },
   {
     name: 'North West Arrow',
@@ -2852,7 +2845,7 @@ export const emojis: CompressedEmojiData[] = [
       'northwest'
     ],
     sheet: [46, 35],
-    shortName: 'arrow_upper_left'
+    shortName: 'arrow-upper-left'
   },
   {
     name: 'Bermuda Flag',
@@ -2901,7 +2894,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [29, 51],
     hidden: ['messenger'],
-    shortName: 'desktop_computer'
+    shortName: 'desktop-computer'
   },
   {
     name: 'Elephant',
@@ -2938,14 +2931,14 @@ export const emojis: CompressedEmojiData[] = [
       'vertical'
     ],
     sheet: [46, 34],
-    shortName: 'arrow_up_down'
+    shortName: 'arrow-up-down'
   },
   {
     name: 'Cricket Bat and Ball',
     unified: '1F3CF',
     sheet: [11, 32],
     hidden: ['messenger'],
-    shortName: 'cricket_bat_and_ball'
+    shortName: 'cricket-bat-and-ball'
   },
   {
     name: 'Printer',
@@ -2967,7 +2960,7 @@ export const emojis: CompressedEmojiData[] = [
       'turkey'
     ],
     sheet: [7, 25],
-    shortName: 'poultry_leg'
+    shortName: 'poultry-leg'
   },
   {
     name: 'Tired Face',
@@ -2979,14 +2972,14 @@ export const emojis: CompressedEmojiData[] = [
       'frustrated'
     ],
     sheet: [31, 15],
-    shortName: 'tired_face'
+    shortName: 'tired-face'
   },
   {
     name: 'Japanese Castle',
     unified: '1F3EF',
     keywords: ['photo', 'building'],
     sheet: [12, 12],
-    shortName: 'japanese_castle'
+    shortName: 'japanese-castle'
   },
   {
     name: 'Brunei Flag',
@@ -3000,7 +2993,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3D1',
     sheet: [11, 34],
     hidden: ['messenger'],
-    shortName: 'field_hockey_stick_and_ball'
+    shortName: 'field-hockey-stick-and-ball'
   },
   {
     name: 'Sleeping Face',
@@ -3025,7 +3018,7 @@ export const emojis: CompressedEmojiData[] = [
       'sideways'
     ],
     sheet: [46, 33],
-    shortName: 'left_right_arrow'
+    shortName: 'left-right-arrow'
   },
   {
     name: 'Keyboard',
@@ -3050,7 +3043,7 @@ export const emojis: CompressedEmojiData[] = [
       'history'
     ],
     sheet: [12, 13],
-    shortName: 'european_castle'
+    shortName: 'european-castle'
   },
   {
     name: 'Mouse Face',
@@ -3058,7 +3051,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: [
       'animal',
       'nature',
-      'cheese_wedge',
+      'cheese-wedge',
       'rodent'
     ],
     sheet: [13, 23],
@@ -3075,14 +3068,14 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F969',
     sheet: [42, 21],
     hidden: ['messenger'],
-    shortName: 'cut_of_meat'
+    shortName: 'cut-of-meat'
   },
   {
     name: 'Ice Hockey Stick and Puck',
     unified: '1F3D2',
     sheet: [11, 35],
     hidden: ['messenger'],
-    shortName: 'ice_hockey_stick_and_puck'
+    shortName: 'ice-hockey-stick-and-puck'
   },
   {
     name: 'Mouse',
@@ -3100,7 +3093,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F5B1-FE0F',
     sheet: [30, 1],
     hidden: ['messenger'],
-    shortName: 'three_button_mouse'
+    shortName: 'three-button-mouse'
   },
   {
     name: 'Leftwards Arrow with Hook',
@@ -3113,7 +3106,7 @@ export const emojis: CompressedEmojiData[] = [
       'enter'
     ],
     sheet: [46, 39],
-    shortName: 'leftwards_arrow_with_hook'
+    shortName: 'leftwards-arrow-with-hook'
   },
   {
     name: 'Bacon',
@@ -3169,7 +3162,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F5FC',
     keywords: ['photo', 'japanese'],
     sheet: [30, 20],
-    shortName: 'tokyo_tower'
+    shortName: 'tokyo-tower'
   },
   {
     name: 'Rightwards Arrow with Hook',
@@ -3181,7 +3174,7 @@ export const emojis: CompressedEmojiData[] = [
       'direction'
     ],
     sheet: [46, 40],
-    shortName: 'arrow_right_hook'
+    shortName: 'arrow-right-hook'
   },
   {
     name: 'Hamburger',
@@ -3219,7 +3212,7 @@ export const emojis: CompressedEmojiData[] = [
       'tongue'
     ],
     sheet: [30, 51],
-    shortName: 'stuck_out_tongue'
+    shortName: 'stuck-out-tongue'
   },
   {
     name: 'Trackball',
@@ -3254,7 +3247,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3D3',
     sheet: [11, 36],
     hidden: ['messenger'],
-    shortName: 'table_tennis_paddle_and_ball'
+    shortName: 'table-tennis-paddle-and-ball'
   },
   {
     name: 'Minidisc',
@@ -3292,7 +3285,7 @@ export const emojis: CompressedEmojiData[] = [
       'tongue'
     ],
     sheet: [31, 0],
-    shortName: 'stuck_out_tongue_winking_eye'
+    shortName: 'stuck-out-tongue-winking-eye'
   },
   {
     name: 'French Fries',
@@ -3310,14 +3303,14 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3F8',
     sheet: [12, 22],
     hidden: ['messenger'],
-    shortName: 'badminton_racquet_and_shuttlecock'
+    shortName: 'badminton-racquet-and-shuttlecock'
   },
   {
     name: 'Statue of Liberty',
     unified: '1F5FD',
     keywords: ['american', 'newyork'],
     sheet: [30, 21],
-    shortName: 'statue_of_liberty'
+    shortName: 'statue-of-liberty'
   },
   {
     name: 'Bahamas Flag',
@@ -3334,7 +3327,7 @@ export const emojis: CompressedEmojiData[] = [
       'top'
     ],
     sheet: [50, 15],
-    shortName: 'arrow_heading_up'
+    shortName: 'arrow-heading-up'
   },
   {
     name: 'Hamster Face',
@@ -3355,7 +3348,7 @@ export const emojis: CompressedEmojiData[] = [
       'tongue'
     ],
     sheet: [31, 1],
-    shortName: 'stuck_out_tongue_closed_eyes'
+    shortName: 'stuck-out-tongue-closed-eyes'
   },
   {
     name: 'Slice of Pizza',
@@ -3370,7 +3363,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['sports', 'fighting'],
     sheet: [41, 45],
     hidden: ['messenger'],
-    shortName: 'boxing_glove'
+    shortName: 'boxing-glove'
   },
   {
     name: 'Floppy Disk',
@@ -3383,7 +3376,7 @@ export const emojis: CompressedEmojiData[] = [
       '80s'
     ],
     sheet: [25, 41],
-    shortName: 'floppy_disk'
+    shortName: 'floppy-disk'
   },
   {
     name: 'Arrow Pointing Rightwards Then Curving Downwards',
@@ -3394,7 +3387,7 @@ export const emojis: CompressedEmojiData[] = [
       'bottom'
     ],
     sheet: [50, 16],
-    shortName: 'arrow_heading_down'
+    shortName: 'arrow-heading-down'
   },
   {
     name: 'Bhutan Flag',
@@ -3433,7 +3426,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['face'],
     sheet: [38, 27],
     hidden: ['messenger'],
-    shortName: 'drooling_face'
+    shortName: 'drooling-face'
   },
   {
     name: 'Bouvet Island Flag',
@@ -3484,7 +3477,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [41, 46],
     hidden: ['messenger'],
-    shortName: 'martial_arts_uniform'
+    shortName: 'martial-arts-uniform'
   },
   {
     name: 'Clockwise Downwards and Upwards Open Circle Arrows',
@@ -3496,7 +3489,7 @@ export const emojis: CompressedEmojiData[] = [
       'repeat'
     ],
     sheet: [27, 5],
-    shortName: 'arrows_clockwise'
+    shortName: 'arrows-clockwise'
   },
   {
     name: 'Optical Disc',
@@ -3520,7 +3513,7 @@ export const emojis: CompressedEmojiData[] = [
       'cycle'
     ],
     sheet: [27, 6],
-    shortName: 'arrows_counterclockwise'
+    shortName: 'arrows-counterclockwise'
   },
   {
     name: 'Sandwich',
@@ -3573,7 +3566,7 @@ export const emojis: CompressedEmojiData[] = [
       'unimpressed',
       'skeptical',
       'dubious',
-      'side_eye'
+      'side-eye'
     ],
     sheet: [30, 42],
     shortName: 'unamused'
@@ -3584,7 +3577,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['sports'],
     sheet: [41, 41],
     hidden: ['messenger'],
-    shortName: 'goal_net'
+    shortName: 'goal-net'
   },
   {
     name: 'Botswana Flag',
@@ -3659,14 +3652,14 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [48, 36],
     hidden: ['messenger'],
-    shortName: 'shinto_shrine'
+    shortName: 'shinto-shrine'
   },
   {
     name: 'Movie Camera',
     unified: '1F3A5',
     keywords: ['film', 'record'],
     sheet: [8, 51],
-    shortName: 'movie_camera'
+    shortName: 'movie-camera'
   },
   {
     name: 'Face with Cold Sweat',
@@ -3724,7 +3717,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F39E-FE0F',
     sheet: [8, 44],
     hidden: ['messenger'],
-    shortName: 'film_frames'
+    shortName: 'film-frames'
   },
   {
     name: 'Bat',
@@ -3770,7 +3763,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [27, 0],
     hidden: ['messenger'],
-    shortName: 'film_projector'
+    shortName: 'film-projector'
   },
   {
     name: 'Bear Face',
@@ -3789,7 +3782,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['sports'],
     sheet: [48, 45],
     hidden: ['messenger'],
-    shortName: 'ice_skate'
+    shortName: 'ice-skate'
   },
   {
     name: 'Fountain',
@@ -3847,7 +3840,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [42, 5],
     hidden: ['messenger'],
-    shortName: 'stuffed_flatbread'
+    shortName: 'stuffed-flatbread'
   },
   {
     name: 'Soon with Rightwards Arrow Above',
@@ -3867,7 +3860,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [31, 39],
     hidden: ['messenger'],
-    shortName: 'upside_down_face'
+    shortName: 'upside-down-face'
   },
   {
     name: 'Fishing Pole and Fish',
@@ -3878,7 +3871,7 @@ export const emojis: CompressedEmojiData[] = [
       'summer'
     ],
     sheet: [8, 49],
-    shortName: 'fishing_pole_and_fish'
+    shortName: 'fishing-pole-and-fish'
   },
   {
     name: 'Tent',
@@ -3956,7 +3949,7 @@ export const emojis: CompressedEmojiData[] = [
       'panda'
     ],
     sheet: [13, 38],
-    shortName: 'panda_face'
+    shortName: 'panda-face'
   },
   {
     name: 'Cooking',
@@ -3969,7 +3962,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [8, 1],
     shortNames: ['cooking'],
-    shortName: 'fried_egg'
+    shortName: 'fried-egg'
   },
   {
     name: 'Top with Upwards Arrow Above',
@@ -3995,14 +3988,14 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 25],
     hidden: ['messenger'],
-    shortName: 'money_mouth_face'
+    shortName: 'money-mouth-face'
   },
   {
     name: 'Running Shirt with Sash',
     unified: '1F3BD',
     keywords: ['play', 'pageant'],
     sheet: [9, 23],
-    shortName: 'running_shirt_with_sash'
+    shortName: 'running-shirt-with-sash'
   },
   {
     name: 'Astonished Face',
@@ -4020,7 +4013,7 @@ export const emojis: CompressedEmojiData[] = [
     name: 'Paw Prints',
     unified: '1F43E',
     sheet: [13, 40],
-    shortNames: ['paw_prints'],
+    shortNames: ['paw-prints'],
     shortName: 'feet'
   },
   {
@@ -4050,7 +4043,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 5],
     hidden: ['messenger'],
-    shortName: 'place_of_worship'
+    shortName: 'place-of-worship'
   },
   {
     name: 'Night with Stars',
@@ -4061,7 +4054,7 @@ export const emojis: CompressedEmojiData[] = [
       'downtown'
     ],
     sheet: [5, 47],
-    shortName: 'night_with_stars'
+    shortName: 'night-with-stars'
   },
   {
     name: 'Ski and Ski Boot',
@@ -4086,14 +4079,14 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [42, 4],
     hidden: ['messenger'],
-    shortName: 'shallow_pan_of_food'
+    shortName: 'shallow-pan-of-food'
   },
   {
     name: 'Camera with Flash',
     unified: '1F4F8',
     sheet: [26, 47],
     hidden: ['messenger'],
-    shortName: 'camera_with_flash'
+    shortName: 'camera-with-flash'
   },
   {
     name: 'Sunrise over Mountains',
@@ -4104,7 +4097,7 @@ export const emojis: CompressedEmojiData[] = [
       'photo'
     ],
     sheet: [5, 48],
-    shortName: 'sunrise_over_mountains'
+    shortName: 'sunrise-over-mountains'
   },
   {
     name: 'Turkey',
@@ -4119,7 +4112,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '2639-FE0F',
     sheet: [47, 40],
     hidden: ['messenger'],
-    shortName: 'white_frowning_face'
+    shortName: 'white-frowning-face'
   },
   {
     name: 'Congo - Brazzaville Flag',
@@ -4156,7 +4149,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [48, 18],
     hidden: ['messenger'],
-    shortName: 'atom_symbol'
+    shortName: 'atom-symbol'
   },
   {
     name: 'Curling Stone',
@@ -4164,7 +4157,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['sports'],
     sheet: [41, 47],
     hidden: ['messenger'],
-    shortName: 'curling_stone'
+    shortName: 'curling-stone'
   },
   {
     name: 'Slightly Frowning Face',
@@ -4178,7 +4171,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [31, 37],
     hidden: ['messenger'],
-    shortName: 'slightly_frowning_face'
+    shortName: 'slightly-frowning-face'
   },
   {
     name: 'Sunrise',
@@ -4197,7 +4190,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F549-FE0F',
     sheet: [28, 12],
     hidden: ['messenger'],
-    shortName: 'om_symbol'
+    shortName: 'om-symbol'
   },
   {
     name: 'Chicken',
@@ -4223,7 +4216,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [42, 15],
     hidden: ['messenger'],
-    shortName: 'bowl_with_spoon'
+    shortName: 'bowl-with-spoon'
   },
   {
     name: 'Switzerland Flag',
@@ -4236,7 +4229,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F4F9',
     keywords: ['film', 'record'],
     sheet: [26, 48],
-    shortName: 'video_camera'
+    shortName: 'video-camera'
   },
   {
     name: 'Video Game',
@@ -4248,7 +4241,7 @@ export const emojis: CompressedEmojiData[] = [
       'controller'
     ],
     sheet: [9, 8],
-    shortName: 'video_game'
+    shortName: 'video-game'
   },
   {
     name: 'Rooster',
@@ -4284,7 +4277,7 @@ export const emojis: CompressedEmojiData[] = [
       'buildings'
     ],
     sheet: [5, 50],
-    shortName: 'city_sunset'
+    shortName: 'city-sunset'
   },
   {
     name: 'Confounded Face',
@@ -4310,7 +4303,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [42, 3],
     hidden: ['messenger'],
-    shortName: 'green_salad'
+    shortName: 'green-salad'
   },
   {
     name: 'Star of David',
@@ -4318,7 +4311,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['judaism'],
     sheet: [49, 47],
     hidden: ['messenger'],
-    shortName: 'star_of_david'
+    shortName: 'star-of-david'
   },
   {
     name: 'Côte D’ivoire Flag',
@@ -4348,7 +4341,7 @@ export const emojis: CompressedEmojiData[] = [
       'dawn'
     ],
     sheet: [5, 51],
-    shortName: 'city_sunrise'
+    shortName: 'city-sunrise'
   },
   {
     name: 'Disappointed Face',
@@ -4389,7 +4382,7 @@ export const emojis: CompressedEmojiData[] = [
       'bird'
     ],
     sheet: [13, 13],
-    shortName: 'hatching_chick'
+    shortName: 'hatching-chick'
   },
   {
     name: 'Joystick',
@@ -4410,7 +4403,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [47, 39],
     hidden: ['messenger'],
-    shortName: 'wheel_of_dharma'
+    shortName: 'wheel-of-dharma'
   },
   {
     name: 'Cook Islands Flag',
@@ -4424,7 +4417,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['food', 'soup'],
     sheet: [42, 23],
     hidden: ['messenger'],
-    shortName: 'canned_food'
+    shortName: 'canned-food'
   },
   {
     name: 'Worried Face',
@@ -4447,7 +4440,7 @@ export const emojis: CompressedEmojiData[] = [
       'bird'
     ],
     sheet: [13, 14],
-    shortName: 'baby_chick'
+    shortName: 'baby-chick'
   },
   {
     name: 'Chile Flag',
@@ -4466,7 +4459,7 @@ export const emojis: CompressedEmojiData[] = [
       'luck'
     ],
     sheet: [9, 12],
-    shortName: 'game_die'
+    shortName: 'game-die'
   },
   {
     name: 'Right-Pointing Magnifying Glass',
@@ -4478,7 +4471,7 @@ export const emojis: CompressedEmojiData[] = [
       'detective'
     ],
     sheet: [27, 16],
-    shortName: 'mag_right'
+    shortName: 'mag-right'
   },
   {
     name: 'Yin Yang',
@@ -4486,14 +4479,14 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['balance'],
     sheet: [47, 38],
     hidden: ['messenger'],
-    shortName: 'yin_yang'
+    shortName: 'yin-yang'
   },
   {
     name: 'Bridge at Night',
     unified: '1F309',
     keywords: ['photo', 'sanfrancisco'],
     sheet: [6, 1],
-    shortName: 'bridge_at_night'
+    shortName: 'bridge-at-night'
   },
   {
     name: 'Black Spade Suit',
@@ -4517,7 +4510,7 @@ export const emojis: CompressedEmojiData[] = [
       'bird'
     ],
     sheet: [13, 15],
-    shortName: 'hatched_chick'
+    shortName: 'hatched-chick'
   },
   {
     name: 'Cameroon Flag',
@@ -4531,7 +4524,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['christianity'],
     sheet: [49, 46],
     hidden: ['messenger'],
-    shortName: 'latin_cross'
+    shortName: 'latin-cross'
   },
   {
     name: 'Face with Look of Triumph',
@@ -4640,7 +4633,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F358',
     keywords: ['food', 'japanese'],
     sheet: [7, 26],
-    shortName: 'rice_cracker'
+    shortName: 'rice-cracker'
   },
   {
     name: 'Black Heart Suit',
@@ -4663,7 +4656,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [47, 35],
     hidden: ['messenger'],
-    shortName: 'orthodox_cross'
+    shortName: 'orthodox-cross'
   },
   {
     name: 'Milky Way',
@@ -4674,20 +4667,20 @@ export const emojis: CompressedEmojiData[] = [
       'stars'
     ],
     sheet: [6, 4],
-    shortName: 'milky_way'
+    shortName: 'milky-way'
   },
   {
     name: 'Rice Ball',
     unified: '1F359',
     keywords: ['food', 'japanese'],
     sheet: [7, 27],
-    shortName: 'rice_ball'
+    shortName: 'rice-ball'
   },
   {
     name: 'Satellite Antenna',
     unified: '1F4E1',
     sheet: [26, 24],
-    shortName: 'satellite_antenna'
+    shortName: 'satellite-antenna'
   },
   {
     name: 'Colombia Flag',
@@ -4700,7 +4693,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3A0',
     keywords: ['photo', 'carnival'],
     sheet: [8, 46],
-    shortName: 'carousel_horse'
+    shortName: 'carousel-horse'
   },
   {
     name: 'Loudly Crying Face',
@@ -4735,7 +4728,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['islam'],
     sheet: [47, 36],
     hidden: ['messenger'],
-    shortName: 'star_and_crescent'
+    shortName: 'star-and-crescent'
   },
   {
     name: 'Penguin',
@@ -4749,7 +4742,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F54A-FE0F',
     sheet: [28, 13],
     hidden: ['messenger'],
-    shortName: 'dove_of_peace'
+    shortName: 'dove-of-peace'
   },
   {
     name: 'Clipperton Island Flag',
@@ -4767,7 +4760,7 @@ export const emojis: CompressedEmojiData[] = [
       'londoneye'
     ],
     sheet: [8, 47],
-    shortName: 'ferris_wheel'
+    shortName: 'ferris-wheel'
   },
   {
     name: 'Black Club Suit',
@@ -4787,7 +4780,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['hippie'],
     sheet: [47, 37],
     hidden: ['messenger'],
-    shortName: 'peace_symbol'
+    shortName: 'peace-symbol'
   },
   {
     name: 'Candle',
@@ -4831,14 +4824,14 @@ export const emojis: CompressedEmojiData[] = [
       'fun'
     ],
     sheet: [8, 48],
-    shortName: 'roller_coaster'
+    shortName: 'roller-coaster'
   },
   {
     name: 'Menorah with Nine Branches',
     unified: '1F54E',
     sheet: [28, 17],
     hidden: ['messenger'],
-    shortName: 'menorah_with_nine_branches'
+    shortName: 'menorah-with-nine-branches'
   },
   {
     name: 'Playing Card Black Joker',
@@ -4851,7 +4844,7 @@ export const emojis: CompressedEmojiData[] = [
       'magic'
     ],
     sheet: [0, 15],
-    shortName: 'black_joker'
+    shortName: 'black-joker'
   },
   {
     name: 'Eagle',
@@ -4940,7 +4933,7 @@ export const emojis: CompressedEmojiData[] = [
       'hexagram'
     ],
     sheet: [27, 49],
-    shortName: 'six_pointed_star'
+    shortName: 'six-pointed-star'
   },
   {
     name: 'Steaming Bowl',
@@ -5024,7 +5017,7 @@ export const emojis: CompressedEmojiData[] = [
       'party'
     ],
     sheet: [9, 4],
-    shortName: 'circus_tent'
+    shortName: 'circus-tent'
   },
   {
     name: 'Izakaya Lantern',
@@ -5037,7 +5030,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [12, 11],
     shortNames: ['lantern'],
-    shortName: 'izakaya_lantern'
+    shortName: 'izakaya-lantern'
   },
   {
     name: 'Cape Verde Flag',
@@ -5064,7 +5057,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F3B4',
     keywords: ['game', 'sunset', 'red'],
     sheet: [9, 14],
-    shortName: 'flower_playing_cards'
+    shortName: 'flower-playing-cards'
   },
   {
     name: 'Owl',
@@ -5088,7 +5081,7 @@ export const emojis: CompressedEmojiData[] = [
       'drama'
     ],
     sheet: [9, 7],
-    shortName: 'performing_arts'
+    shortName: 'performing-arts'
   },
   {
     name: 'Frog Face',
@@ -5119,7 +5112,7 @@ export const emojis: CompressedEmojiData[] = [
       'study'
     ],
     sheet: [26, 11],
-    shortName: 'notebook_with_decorative_cover'
+    shortName: 'notebook-with-decorative-cover'
   },
   {
     name: 'Shocked Face with Exploding Head',
@@ -5132,10 +5125,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [39, 3],
     hidden: ['messenger'],
-    shortNames: [
-      'shocked_face_with_exploding_head'
-    ],
-    shortName: 'exploding_head'
+    shortName: 'exploding-head'
   },
   {
     name: 'Taurus',
@@ -5154,7 +5144,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F360',
     keywords: ['food', 'nature'],
     sheet: [7, 34],
-    shortName: 'sweet_potato'
+    shortName: 'sweet-potato'
   },
   {
     name: 'Closed Book',
@@ -5167,7 +5157,7 @@ export const emojis: CompressedEmojiData[] = [
       'learn'
     ],
     sheet: [26, 12],
-    shortName: 'closed_book'
+    shortName: 'closed-book'
   },
   {
     name: 'Gemini',
@@ -5186,7 +5176,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F5BC-FE0F',
     sheet: [30, 3],
     hidden: ['messenger'],
-    shortName: 'frame_with_picture'
+    shortName: 'frame-with-picture'
   },
   {
     name: 'Christmas Island Flag',
@@ -5235,7 +5225,7 @@ export const emojis: CompressedEmojiData[] = [
     name: 'Open Book',
     unified: '1F4D6',
     sheet: [26, 13],
-    shortNames: ['open_book'],
+    shortNames: ['open-book'],
     shortName: 'book'
   },
   {
@@ -5283,7 +5273,7 @@ export const emojis: CompressedEmojiData[] = [
       'sweat'
     ],
     sheet: [31, 20],
-    shortName: 'cold_sweat'
+    shortName: 'cold-sweat'
   },
   {
     name: 'Cancer',
@@ -5307,7 +5297,7 @@ export const emojis: CompressedEmojiData[] = [
       'summer'
     ],
     sheet: [7, 38],
-    shortName: 'fried_shrimp'
+    shortName: 'fried-shrimp'
   },
   {
     name: 'Slot Machine',
@@ -5321,7 +5311,7 @@ export const emojis: CompressedEmojiData[] = [
       'casino'
     ],
     sheet: [9, 10],
-    shortName: 'slot_machine'
+    shortName: 'slot-machine'
   },
   {
     name: 'Face Screaming in Fear',
@@ -5345,7 +5335,7 @@ export const emojis: CompressedEmojiData[] = [
       'study'
     ],
     sheet: [26, 14],
-    shortName: 'green_book'
+    shortName: 'green-book'
   },
   {
     name: 'Leo',
@@ -5398,7 +5388,7 @@ export const emojis: CompressedEmojiData[] = [
       'train'
     ],
     sheet: [34, 10],
-    shortName: 'steam_locomotive'
+    shortName: 'steam-locomotive'
   },
   {
     name: 'Germany Flag',
@@ -5437,7 +5427,7 @@ export const emojis: CompressedEmojiData[] = [
       'study'
     ],
     sheet: [26, 15],
-    shortName: 'blue_book'
+    shortName: 'blue-book'
   },
   {
     name: 'Snake',
@@ -5468,7 +5458,7 @@ export const emojis: CompressedEmojiData[] = [
       'ramen'
     ],
     sheet: [7, 39],
-    shortName: 'fish_cake'
+    shortName: 'fish-cake'
   },
   {
     name: 'Railway Car',
@@ -5478,7 +5468,7 @@ export const emojis: CompressedEmojiData[] = [
       'vehicle'
     ],
     sheet: [34, 11],
-    shortName: 'railway_car'
+    shortName: 'railway-car'
   },
   {
     name: 'Dango',
@@ -5505,7 +5495,7 @@ export const emojis: CompressedEmojiData[] = [
       'study'
     ],
     sheet: [26, 16],
-    shortName: 'orange_book'
+    shortName: 'orange-book'
   },
   {
     name: 'Libra',
@@ -5530,7 +5520,7 @@ export const emojis: CompressedEmojiData[] = [
       'green'
     ],
     sheet: [13, 28],
-    shortName: 'dragon_face'
+    shortName: 'dragon-face'
   },
   {
     name: 'Diego Garcia Flag',
@@ -5544,10 +5534,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F92A',
     sheet: [38, 50],
     hidden: ['messenger'],
-    shortNames: [
-      'grinning_face_with_one_large_and_one_small_eye'
-    ],
-    shortName: 'zany_face'
+    shortName: 'zany-face'
   },
   {
     name: 'Books',
@@ -5602,7 +5589,7 @@ export const emojis: CompressedEmojiData[] = [
       'dizzy'
     ],
     sheet: [31, 25],
-    shortName: 'dizzy_face'
+    shortName: 'dizzy-face'
   },
   {
     name: 'Scorpius',
@@ -5625,7 +5612,7 @@ export const emojis: CompressedEmojiData[] = [
       'vehicle'
     ],
     sheet: [34, 12],
-    shortName: 'bullettrain_side'
+    shortName: 'bullettrain-side'
   },
   {
     name: 'High-Speed Train with Bullet Nose',
@@ -5639,7 +5626,7 @@ export const emojis: CompressedEmojiData[] = [
       'travel'
     ],
     sheet: [34, 13],
-    shortName: 'bullettrain_front'
+    shortName: 'bullettrain-front'
   },
   {
     name: 'Notebook',
@@ -5660,7 +5647,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['food', 'prophecy'],
     sheet: [42, 12],
     hidden: ['messenger'],
-    shortName: 'fortune_cookie'
+    shortName: 'fortune-cookie'
   },
   {
     name: 'Sagittarius',
@@ -5760,7 +5747,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['food', 'leftovers'],
     sheet: [42, 13],
     hidden: ['messenger'],
-    shortName: 'takeout_box'
+    shortName: 'takeout-box'
   },
   {
     name: 'Dominica Flag',
@@ -5787,7 +5774,7 @@ export const emojis: CompressedEmojiData[] = [
       'paper'
     ],
     sheet: [25, 46],
-    shortName: 'page_with_curl'
+    shortName: 'page-with-curl'
   },
   {
     name: 'Spouting Whale',
@@ -5806,10 +5793,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F92C',
     sheet: [39, 0],
     hidden: ['messenger'],
-    shortNames: [
-      'serious_face_with_symbols_covering_mouth'
-    ],
-    shortName: 'face_with_symbols_on_mouth'
+    shortName: 'face-with-symbols-on-mouth'
   },
   {
     name: 'Dominican Republic Flag',
@@ -5905,7 +5889,7 @@ export const emojis: CompressedEmojiData[] = [
       'summer'
     ],
     sheet: [7, 41],
-    shortName: 'shaved_ice'
+    shortName: 'shaved-ice'
   },
   {
     name: 'Pisces',
@@ -5927,7 +5911,7 @@ export const emojis: CompressedEmojiData[] = [
       'vehicle'
     ],
     sheet: [34, 16],
-    shortName: 'light_rail'
+    shortName: 'light-rail'
   },
   {
     name: 'Dolphin',
@@ -5958,7 +5942,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 26],
     hidden: ['messenger'],
-    shortName: 'face_with_thermometer'
+    shortName: 'face-with-thermometer'
   },
   {
     name: 'Ceuta & Melilla Flag',
@@ -5999,7 +5983,7 @@ export const emojis: CompressedEmojiData[] = [
       'dessert'
     ],
     sheet: [7, 42],
-    shortName: 'ice_cream'
+    shortName: 'ice-cream'
   },
   {
     name: 'Page Facing Up',
@@ -6011,7 +5995,7 @@ export const emojis: CompressedEmojiData[] = [
       'information'
     ],
     sheet: [25, 47],
-    shortName: 'page_facing_up'
+    shortName: 'page-facing-up'
   },
   {
     name: 'Doughnut',
@@ -6037,7 +6021,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 29],
     hidden: ['messenger'],
-    shortName: 'face_with_head_bandage'
+    shortName: 'face-with-head-bandage'
   },
   {
     name: 'Fish',
@@ -6083,7 +6067,7 @@ export const emojis: CompressedEmojiData[] = [
       'random'
     ],
     sheet: [27, 2],
-    shortName: 'twisted_rightwards_arrows'
+    shortName: 'twisted-rightwards-arrows'
   },
   {
     name: 'Estonia Flag',
@@ -6126,14 +6110,14 @@ export const emojis: CompressedEmojiData[] = [
       'nemo'
     ],
     sheet: [13, 10],
-    shortName: 'tropical_fish'
+    shortName: 'tropical-fish'
   },
   {
     name: 'Rolled Up Newspaper',
     unified: '1F5DE-FE0F',
     sheet: [30, 12],
     hidden: ['messenger'],
-    shortName: 'rolled_up_newspaper'
+    shortName: 'rolled-up-newspaper'
   },
   {
     name: 'Nauseated Face',
@@ -6149,7 +6133,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [38, 25],
     hidden: ['messenger'],
-    shortName: 'nauseated_face'
+    shortName: 'nauseated-face'
   },
   {
     name: 'Clockwise Rightwards and Leftwards Open Circle Arrows',
@@ -6168,14 +6152,14 @@ export const emojis: CompressedEmojiData[] = [
       'tidy'
     ],
     sheet: [26, 8],
-    shortName: 'bookmark_tabs'
+    shortName: 'bookmark-tabs'
   },
   {
     name: 'Clockwise Rightwards and Leftwards Open Circle Arrows with Circled One Overlay',
     unified: '1F502',
     keywords: ['blue-square', 'loop'],
     sheet: [27, 4],
-    shortName: 'repeat_one'
+    shortName: 'repeat-one'
   },
   {
     name: 'Egypt Flag',
@@ -6191,7 +6175,7 @@ export const emojis: CompressedEmojiData[] = [
       'vehicle'
     ],
     sheet: [34, 38],
-    shortName: 'mountain_railway'
+    shortName: 'mountain-railway'
   },
   {
     name: 'Birthday Cake',
@@ -6222,10 +6206,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F92E',
     sheet: [39, 2],
     hidden: ['messenger'],
-    shortNames: [
-      'face_with_open_mouth_vomiting'
-    ],
-    shortName: 'face_vomiting'
+    shortName: 'face-vomiting'
   },
   {
     name: 'Black Right-Pointing Triangle',
@@ -6237,7 +6218,7 @@ export const emojis: CompressedEmojiData[] = [
       'play'
     ],
     sheet: [47, 10],
-    shortName: 'arrow_forward'
+    shortName: 'arrow-forward'
   },
   {
     name: 'Bookmark',
@@ -6299,7 +6280,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [38, 47],
     hidden: ['messenger'],
-    shortName: 'sneezing_face'
+    shortName: 'sneezing-face'
   },
   {
     name: 'Shortcake',
@@ -6353,7 +6334,7 @@ export const emojis: CompressedEmojiData[] = [
       'continue'
     ],
     sheet: [46, 45],
-    shortName: 'fast_forward'
+    shortName: 'fast-forward'
   },
   {
     name: 'Label',
@@ -6388,7 +6369,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '23ED-FE0F',
     sheet: [46, 49],
     hidden: ['messenger'],
-    shortName: 'black_right_pointing_double_triangle_with_vertical_bar'
+    shortName: 'black-right-pointing-double-triangle-with-vertical-bar'
   },
   {
     name: 'Chocolate Bar',
@@ -6400,7 +6381,7 @@ export const emojis: CompressedEmojiData[] = [
       'sweet'
     ],
     sheet: [7, 45],
-    shortName: 'chocolate_bar'
+    shortName: 'chocolate-bar'
   },
   {
     name: 'Oncoming Bus',
@@ -6410,7 +6391,7 @@ export const emojis: CompressedEmojiData[] = [
       'transportation'
     ],
     sheet: [34, 21],
-    shortName: 'oncoming_bus'
+    shortName: 'oncoming-bus'
   },
   {
     name: 'Spiral Shell',
@@ -6428,7 +6409,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F920',
     sheet: [38, 23],
     hidden: ['messenger'],
-    shortName: 'face_with_cowboy_hat'
+    shortName: 'face-with-cowboy-hat'
   },
   {
     name: 'Money Bag',
@@ -6489,14 +6470,14 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['face'],
     sheet: [38, 24],
     hidden: ['messenger'],
-    shortName: 'clown_face'
+    shortName: 'clown-face'
   },
   {
     name: 'Black Right Pointing Triangle with Double Vertical Bar',
     unified: '23EF-FE0F',
     sheet: [46, 51],
     hidden: ['messenger'],
-    shortName: 'black_right_pointing_triangle_with_double_vertical_bar'
+    shortName: 'black-right-pointing-triangle-with-double-vertical-bar'
   },
   {
     name: 'Trolleybus',
@@ -6531,7 +6512,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [38, 28],
     hidden: ['messenger'],
-    shortName: 'lying_face'
+    shortName: 'lying-face'
   },
   {
     name: 'Black Left-Pointing Triangle',
@@ -6542,7 +6523,7 @@ export const emojis: CompressedEmojiData[] = [
       'direction'
     ],
     sheet: [47, 11],
-    shortName: 'arrow_backward'
+    shortName: 'arrow-backward'
   },
   {
     name: 'Banknote with Dollar Sign',
@@ -6652,10 +6633,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F92B',
     sheet: [38, 51],
     hidden: ['messenger'],
-    shortNames: [
-      'face_with_finger_covering_closed_lips'
-    ],
-    shortName: 'shushing_face'
+    shortName: 'shushing-face'
   },
   {
     name: 'Black Left-Pointing Double Triangle',
@@ -6669,17 +6647,14 @@ export const emojis: CompressedEmojiData[] = [
     unified: '23EE-FE0F',
     sheet: [46, 50],
     hidden: ['messenger'],
-    shortName: 'black_left_pointing_double_triangle_with_vertical_bar'
+    shortName: 'black-left-pointing-double-triangle-with-vertical-bar'
   },
   {
     name: 'Smiling Face with Smiling Eyes and Hand Covering Mouth',
     unified: '1F92D',
     sheet: [39, 1],
     hidden: ['messenger'],
-    shortNames: [
-      'smiling_face_with_smiling_eyes_and_hand_covering_mouth'
-    ],
-    shortName: 'face_with_hand_over_mouth'
+    shortName: 'face-with-hand-over-mouth'
   },
   {
     name: 'Fiji Flag',
@@ -6696,7 +6671,7 @@ export const emojis: CompressedEmojiData[] = [
       'kitchen'
     ],
     sheet: [7, 49],
-    shortName: 'honey_pot'
+    shortName: 'honey-pot'
   },
   {
     name: 'Snail',
@@ -6734,7 +6709,7 @@ export const emojis: CompressedEmojiData[] = [
       'vehicle'
     ],
     sheet: [34, 26],
-    shortName: 'fire_engine'
+    shortName: 'fire-engine'
   },
   {
     name: 'Baby Bottle',
@@ -6745,7 +6720,7 @@ export const emojis: CompressedEmojiData[] = [
       'milk'
     ],
     sheet: [8, 10],
-    shortName: 'baby_bottle'
+    shortName: 'baby-bottle'
   },
   {
     name: 'Falkland Islands Flag',
@@ -6777,14 +6752,14 @@ export const emojis: CompressedEmojiData[] = [
       'sale'
     ],
     sheet: [25, 35],
-    shortName: 'money_with_wings'
+    shortName: 'money-with-wings'
   },
   {
     name: 'Face with Monocle',
     unified: '1F9D0',
     sheet: [42, 49],
     hidden: ['messenger'],
-    shortName: 'face_with_monocle'
+    shortName: 'face-with-monocle'
   },
   {
     name: 'Police Car',
@@ -6798,7 +6773,7 @@ export const emojis: CompressedEmojiData[] = [
       'enforcement'
     ],
     sheet: [34, 27],
-    shortName: 'police_car'
+    shortName: 'police-car'
   },
   {
     name: 'Up-Pointing Small Red Triangle',
@@ -6812,7 +6787,7 @@ export const emojis: CompressedEmojiData[] = [
       'top'
     ],
     sheet: [28, 10],
-    shortName: 'arrow_up_small'
+    shortName: 'arrow-up-small'
   },
   {
     name: 'Micronesia Flag',
@@ -6825,7 +6800,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F95B',
     sheet: [42, 7],
     hidden: ['messenger'],
-    shortName: 'glass_of_milk'
+    shortName: 'glass-of-milk'
   },
   {
     name: 'Credit Card',
@@ -6839,7 +6814,7 @@ export const emojis: CompressedEmojiData[] = [
       'shopping'
     ],
     sheet: [25, 30],
-    shortName: 'credit_card'
+    shortName: 'credit-card'
   },
   {
     name: 'Oncoming Police Car',
@@ -6852,7 +6827,7 @@ export const emojis: CompressedEmojiData[] = [
       '911'
     ],
     sheet: [34, 28],
-    shortName: 'oncoming_police_car'
+    shortName: 'oncoming-police-car'
   },
   {
     name: 'Bug',
@@ -6877,7 +6852,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 27],
     hidden: ['messenger'],
-    shortName: 'nerd_face'
+    shortName: 'nerd-face'
   },
   {
     name: 'Black Up-Pointing Double Triangle',
@@ -6888,7 +6863,7 @@ export const emojis: CompressedEmojiData[] = [
       'top'
     ],
     sheet: [46, 47],
-    shortName: 'arrow_double_up'
+    shortName: 'arrow-double-up'
   },
   {
     name: 'Chart with Upwards Trend and Yen Sign',
@@ -6929,14 +6904,14 @@ export const emojis: CompressedEmojiData[] = [
       'bottom'
     ],
     sheet: [28, 11],
-    shortName: 'arrow_down_small'
+    shortName: 'arrow-down-small'
   },
   {
     name: 'Smiling Face with Horns',
     unified: '1F608',
     keywords: ['devil', 'horns'],
     sheet: [30, 32],
-    shortName: 'smiling_imp'
+    shortName: 'smiling-imp'
   },
   {
     name: 'Taxi',
@@ -6986,7 +6961,7 @@ export const emojis: CompressedEmojiData[] = [
       'uber'
     ],
     sheet: [34, 30],
-    shortName: 'oncoming_taxi'
+    shortName: 'oncoming-taxi'
   },
   {
     name: 'Black Down-Pointing Double Triangle',
@@ -6997,7 +6972,7 @@ export const emojis: CompressedEmojiData[] = [
       'bottom'
     ],
     sheet: [46, 48],
-    shortName: 'arrow_double_down'
+    shortName: 'arrow-double-down'
   },
   {
     name: 'Imp',
@@ -7020,7 +6995,7 @@ export const emojis: CompressedEmojiData[] = [
       'travel'
     ],
     sheet: [25, 28],
-    shortName: 'currency_exchange'
+    shortName: 'currency-exchange'
   },
   {
     name: 'Teacup Without Handle',
@@ -7053,13 +7028,13 @@ export const emojis: CompressedEmojiData[] = [
       'buck'
     ],
     sheet: [25, 29],
-    shortName: 'heavy_dollar_sign'
+    shortName: 'heavy-dollar-sign'
   },
   {
     name: 'Automobile',
     unified: '1F697',
     sheet: [34, 31],
-    shortNames: ['red_car'],
+    shortNames: ['red-car'],
     shortName: 'car'
   },
   {
@@ -7111,14 +7086,14 @@ export const emojis: CompressedEmojiData[] = [
       'ogre'
     ],
     sheet: [22, 40],
-    shortName: 'japanese_ogre'
+    shortName: 'japanese-ogre'
   },
   {
     name: 'Double Vertical Bar',
     unified: '23F8-FE0F',
     sheet: [47, 4],
     hidden: ['messenger'],
-    shortName: 'double_vertical_bar'
+    shortName: 'double-vertical-bar'
   },
   {
     name: 'Bottle with Popping Cork',
@@ -7147,14 +7122,14 @@ export const emojis: CompressedEmojiData[] = [
       'goblin'
     ],
     sheet: [22, 41],
-    shortName: 'japanese_goblin'
+    shortName: 'japanese-goblin'
   },
   {
     name: 'Black Square for Stop',
     unified: '23F9-FE0F',
     sheet: [47, 5],
     hidden: ['messenger'],
-    shortName: 'black_square_for_stop'
+    shortName: 'black-square-for-stop'
   },
   {
     name: 'Oncoming Automobile',
@@ -7165,7 +7140,7 @@ export const emojis: CompressedEmojiData[] = [
       'transportation'
     ],
     sheet: [34, 32],
-    shortName: 'oncoming_automobile'
+    shortName: 'oncoming-automobile'
   },
   {
     name: 'Envelope',
@@ -7200,7 +7175,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '23FA-FE0F',
     sheet: [47, 6],
     hidden: ['messenger'],
-    shortName: 'black_circle_for_record'
+    shortName: 'black-circle-for-record'
   },
   {
     name: 'Grenada Flag',
@@ -7224,7 +7199,7 @@ export const emojis: CompressedEmojiData[] = [
       'vehicle'
     ],
     sheet: [34, 33],
-    shortName: 'blue_car'
+    shortName: 'blue-car'
   },
   {
     name: 'Skull',
@@ -7259,7 +7234,7 @@ export const emojis: CompressedEmojiData[] = [
       'booze'
     ],
     sheet: [8, 5],
-    shortName: 'wine_glass'
+    shortName: 'wine-glass'
   },
   {
     name: 'Spider Web',
@@ -7272,7 +7247,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [29, 19],
     hidden: ['messenger'],
-    shortName: 'spider_web'
+    shortName: 'spider-web'
   },
   {
     name: 'Cocktail Glass',
@@ -7302,7 +7277,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [47, 32],
     hidden: ['messenger'],
-    shortName: 'skull_and_crossbones'
+    shortName: 'skull-and-crossbones'
   },
   {
     name: 'Georgia Flag',
@@ -7332,7 +7307,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F4E8',
     keywords: ['email', 'inbox'],
     sheet: [26, 31],
-    shortName: 'incoming_envelope'
+    shortName: 'incoming-envelope'
   },
   {
     name: 'Tropical Drink',
@@ -7347,7 +7322,7 @@ export const emojis: CompressedEmojiData[] = [
       'mojito'
     ],
     sheet: [8, 7],
-    shortName: 'tropical_drink'
+    shortName: 'tropical-drink'
   },
   {
     name: 'Scorpion',
@@ -7382,7 +7357,7 @@ export const emojis: CompressedEmojiData[] = [
       'express'
     ],
     sheet: [34, 35],
-    shortName: 'articulated_lorry'
+    shortName: 'articulated-lorry'
   },
   {
     name: 'Envelope with Downwards Arrow Above',
@@ -7392,7 +7367,7 @@ export const emojis: CompressedEmojiData[] = [
       'communication'
     ],
     sheet: [26, 32],
-    shortName: 'envelope_with_arrow'
+    shortName: 'envelope-with-arrow'
   },
   {
     name: 'Ghost',
@@ -7457,7 +7432,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F4E4',
     keywords: ['inbox', 'email'],
     sheet: [26, 27],
-    shortName: 'outbox_tray'
+    shortName: 'outbox-tray'
   },
   {
     name: 'Low Brightness Symbol',
@@ -7469,7 +7444,7 @@ export const emojis: CompressedEmojiData[] = [
       'summer'
     ],
     sheet: [27, 7],
-    shortName: 'low_brightness'
+    shortName: 'low-brightness'
   },
   {
     name: 'Extraterrestrial Alien',
@@ -7478,7 +7453,7 @@ export const emojis: CompressedEmojiData[] = [
       'UFO',
       'paul',
       'weird',
-      'outer_space'
+      'outer-space'
     ],
     sheet: [22, 49],
     shortName: 'alien'
@@ -7499,14 +7474,14 @@ export const emojis: CompressedEmojiData[] = [
       'flower'
     ],
     sheet: [6, 46],
-    shortName: 'cherry_blossom'
+    shortName: 'cherry-blossom'
   },
   {
     name: 'Inbox Tray',
     unified: '1F4E5',
     keywords: ['email', 'documents'],
     sheet: [26, 28],
-    shortName: 'inbox_tray'
+    shortName: 'inbox-tray'
   },
   {
     name: 'Ghana Flag',
@@ -7535,7 +7510,7 @@ export const emojis: CompressedEmojiData[] = [
       'play'
     ],
     sheet: [22, 50],
-    shortName: 'space_invader'
+    shortName: 'space-invader'
   },
   {
     name: 'Clinking Beer Mugs',
@@ -7559,7 +7534,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F506',
     keywords: ['sun', 'light'],
     sheet: [27, 8],
-    shortName: 'high_brightness'
+    shortName: 'high-brightness'
   },
   {
     name: 'Package',
@@ -7586,7 +7561,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F4AE',
     keywords: ['japanese', 'spring'],
     sheet: [25, 25],
-    shortName: 'white_flower'
+    shortName: 'white-flower'
   },
   {
     name: 'Clinking Glasses',
@@ -7604,14 +7579,14 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [41, 38],
     hidden: ['messenger'],
-    shortName: 'clinking_glasses'
+    shortName: 'clinking-glasses'
   },
   {
     name: 'Robot Face',
     unified: '1F916',
     sheet: [37, 30],
     hidden: ['messenger'],
-    shortName: 'robot_face'
+    shortName: 'robot-face'
   },
   {
     name: 'Antenna with Bars',
@@ -7627,7 +7602,7 @@ export const emojis: CompressedEmojiData[] = [
       'bars'
     ],
     sheet: [26, 45],
-    shortName: 'signal_strength'
+    shortName: 'signal-strength'
   },
   {
     name: 'Gibraltar Flag',
@@ -7651,7 +7626,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 20],
     hidden: ['messenger'],
-    shortName: 'motor_scooter'
+    shortName: 'motor-scooter'
   },
   {
     name: 'Closed Mailbox with Raised Flag',
@@ -7672,7 +7647,7 @@ export const emojis: CompressedEmojiData[] = [
       'phone'
     ],
     sheet: [26, 42],
-    shortName: 'vibration_mode'
+    shortName: 'vibration-mode'
   },
   {
     name: 'Pile of Poo',
@@ -7711,7 +7686,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [41, 39],
     hidden: ['messenger'],
-    shortName: 'tumbler_glass'
+    shortName: 'tumbler-glass'
   },
   {
     name: 'Cup with Straw',
@@ -7719,7 +7694,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['drink', 'soda'],
     sheet: [42, 16],
     hidden: ['messenger'],
-    shortName: 'cup_with_straw'
+    shortName: 'cup-with-straw'
   },
   {
     name: 'Gambia Flag',
@@ -7736,7 +7711,7 @@ export const emojis: CompressedEmojiData[] = [
       'inbox'
     ],
     sheet: [26, 33],
-    shortName: 'mailbox_closed'
+    shortName: 'mailbox-closed'
   },
   {
     name: 'Mobile Phone off',
@@ -7748,7 +7723,7 @@ export const emojis: CompressedEmojiData[] = [
       'quiet'
     ],
     sheet: [26, 43],
-    shortName: 'mobile_phone_off'
+    shortName: 'mobile-phone-off'
   },
   {
     name: 'Bus Stop',
@@ -7770,7 +7745,7 @@ export const emojis: CompressedEmojiData[] = [
       'smile'
     ],
     sheet: [31, 30],
-    shortName: 'smiley_cat'
+    shortName: 'smiley-cat'
   },
   {
     name: 'Rose',
@@ -7806,7 +7781,7 @@ export const emojis: CompressedEmojiData[] = [
       'smile'
     ],
     sheet: [31, 28],
-    shortName: 'smile_cat'
+    shortName: 'smile-cat'
   },
   {
     name: 'Guinea Flag',
@@ -7824,7 +7799,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [41, 36],
     hidden: ['messenger'],
-    shortName: 'wilted_flower'
+    shortName: 'wilted-flower'
   },
   {
     name: 'Open Mailbox with Raised Flag',
@@ -7835,7 +7810,7 @@ export const emojis: CompressedEmojiData[] = [
       'communication'
     ],
     sheet: [26, 35],
-    shortName: 'mailbox_with_mail'
+    shortName: 'mailbox-with-mail'
   },
   {
     name: 'Chopsticks',
@@ -7850,21 +7825,21 @@ export const emojis: CompressedEmojiData[] = [
     unified: '2640-FE0F',
     sheet: [47, 42],
     hidden: ['apple', 'messenger'],
-    shortName: 'female_sign'
+    shortName: 'female-sign'
   },
   {
     name: 'Open Mailbox with Lowered Flag',
     unified: '1F4ED',
     keywords: ['email', 'inbox'],
     sheet: [26, 36],
-    shortName: 'mailbox_with_no_mail'
+    shortName: 'mailbox-with-no-mail'
   },
   {
     name: 'Knife Fork Plate',
     unified: '1F37D-FE0F',
     sheet: [8, 11],
     hidden: ['messenger'],
-    shortName: 'knife_fork_plate'
+    shortName: 'knife-fork-plate'
   },
   {
     name: 'Hibiscus',
@@ -7894,14 +7869,14 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 12],
     hidden: ['messenger'],
-    shortName: 'railway_track'
+    shortName: 'railway-track'
   },
   {
     name: 'Male Sign',
     unified: '2642-FE0F',
     sheet: [47, 43],
     hidden: ['apple', 'messenger'],
-    shortName: 'male_sign'
+    shortName: 'male-sign'
   },
   {
     name: 'Cat Face with Tears of Joy',
@@ -7914,7 +7889,7 @@ export const emojis: CompressedEmojiData[] = [
       'tears'
     ],
     sheet: [31, 29],
-    shortName: 'joy_cat'
+    shortName: 'joy-cat'
   },
   {
     name: 'Fuel Pump',
@@ -7967,22 +7942,21 @@ export const emojis: CompressedEmojiData[] = [
       'heart'
     ],
     sheet: [31, 31],
-    shortName: 'heart_eyes_cat'
+    shortName: 'heart-eyes-cat'
   },
   {
     name: 'Fork and Knife',
     unified: '1F374',
     keywords: ['cutlery', 'kitchen'],
     sheet: [8, 2],
-    shortName: 'fork_and_knife'
+    shortName: 'fork-and-knife'
   },
   {
     name: 'Medical Symbol',
     unified: '2695-FE0F',
     sheet: [48, 14],
     hidden: ['apple', 'messenger'],
-    shortNames: ['staff_of_aesculapius'],
-    shortName: 'medical_symbol'
+    shortName: 'medical-symbol'
   },
   {
     name: 'Black Universal Recycling Symbol',
@@ -8034,7 +8008,7 @@ export const emojis: CompressedEmojiData[] = [
       'legal'
     ],
     sheet: [35, 13],
-    shortName: 'rotating_light'
+    shortName: 'rotating-light'
   },
   {
     name: 'Cat Face with Wry Smile',
@@ -8045,14 +8019,14 @@ export const emojis: CompressedEmojiData[] = [
       'smirk'
     ],
     sheet: [31, 32],
-    shortName: 'smirk_cat'
+    shortName: 'smirk-cat'
   },
   {
     name: 'Ballot Box with Ballot',
     unified: '1F5F3-FE0F',
     sheet: [30, 17],
     hidden: ['messenger'],
-    shortName: 'ballot_box_with_ballot'
+    shortName: 'ballot-box-with-ballot'
   },
   {
     name: 'Greece Flag',
@@ -8069,7 +8043,7 @@ export const emojis: CompressedEmojiData[] = [
       'kiss'
     ],
     sheet: [31, 33],
-    shortName: 'kissing_cat'
+    shortName: 'kissing-cat'
   },
   {
     name: 'Pencil',
@@ -8093,7 +8067,7 @@ export const emojis: CompressedEmojiData[] = [
       'signal'
     ],
     sheet: [35, 10],
-    shortName: 'traffic_light'
+    shortName: 'traffic-light'
   },
   {
     name: 'Fleur De Lis',
@@ -8101,7 +8075,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['decorative', 'scout'],
     sheet: [48, 19],
     hidden: ['messenger'],
-    shortName: 'fleur_de_lis'
+    shortName: 'fleur-de-lis'
   },
   {
     name: 'Tulip',
@@ -8169,7 +8143,7 @@ export const emojis: CompressedEmojiData[] = [
       'scream'
     ],
     sheet: [31, 36],
-    shortName: 'scream_cat'
+    shortName: 'scream-cat'
   },
   {
     name: 'Vertical Traffic Light',
@@ -8179,7 +8153,7 @@ export const emojis: CompressedEmojiData[] = [
       'driving'
     ],
     sheet: [35, 11],
-    shortName: 'vertical_traffic_light'
+    shortName: 'vertical-traffic-light'
   },
   {
     name: 'Black Nib',
@@ -8191,7 +8165,7 @@ export const emojis: CompressedEmojiData[] = [
       'write'
     ],
     sheet: [49, 43],
-    shortName: 'black_nib'
+    shortName: 'black-nib'
   },
   {
     name: 'Guatemala Flag',
@@ -8217,7 +8191,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F4DB',
     keywords: ['fire', 'forbid'],
     sheet: [26, 18],
-    shortName: 'name_badge'
+    shortName: 'name-badge'
   },
   {
     name: 'Construction Sign',
@@ -8236,14 +8210,14 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F58B-FE0F',
     sheet: [29, 29],
     hidden: ['messenger'],
-    shortName: 'lower_left_fountain_pen'
+    shortName: 'lower-left-fountain-pen'
   },
   {
     name: 'Evergreen Tree',
     unified: '1F332',
     keywords: ['plant', 'nature'],
     sheet: [6, 40],
-    shortName: 'evergreen_tree'
+    shortName: 'evergreen-tree'
   },
   {
     name: 'Crying Cat Face',
@@ -8258,7 +8232,7 @@ export const emojis: CompressedEmojiData[] = [
       'cry'
     ],
     sheet: [31, 35],
-    shortName: 'crying_cat_face'
+    shortName: 'crying-cat-face'
   },
   {
     name: 'Guinea-Bissau Flag',
@@ -8271,28 +8245,28 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F58A-FE0F',
     sheet: [29, 28],
     hidden: ['messenger'],
-    shortName: 'lower_left_ballpoint_pen'
+    shortName: 'lower-left-ballpoint-pen'
   },
   {
     name: 'Pouting Cat Face',
     unified: '1F63E',
     keywords: ['animal', 'cats'],
     sheet: [31, 34],
-    shortName: 'pouting_cat'
+    shortName: 'pouting-cat'
   },
   {
     name: 'Deciduous Tree',
     unified: '1F333',
     keywords: ['plant', 'nature'],
     sheet: [6, 41],
-    shortName: 'deciduous_tree'
+    shortName: 'deciduous-tree'
   },
   {
     name: 'Octagonal Sign',
     unified: '1F6D1',
     sheet: [37, 6],
     hidden: ['messenger'],
-    shortName: 'octagonal_sign'
+    shortName: 'octagonal-sign'
   },
   {
     name: 'Japanese Symbol for Beginner',
@@ -8312,7 +8286,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F58C-FE0F',
     sheet: [29, 30],
     hidden: ['messenger'],
-    shortName: 'lower_left_paintbrush'
+    shortName: 'lower-left-paintbrush'
   },
   {
     name: 'Heavy Large Circle',
@@ -8334,7 +8308,7 @@ export const emojis: CompressedEmojiData[] = [
       'tropical'
     ],
     sheet: [6, 42],
-    shortName: 'palm_tree'
+    shortName: 'palm-tree'
   },
   {
     name: 'Anchor',
@@ -8358,7 +8332,7 @@ export const emojis: CompressedEmojiData[] = [
       'haha'
     ],
     sheet: [32, 43],
-    shortName: 'see_no_evil'
+    shortName: 'see-no-evil'
   },
   {
     name: 'Sailboat',
@@ -8380,7 +8354,7 @@ export const emojis: CompressedEmojiData[] = [
       'tick'
     ],
     sheet: [49, 15],
-    shortName: 'white_check_mark'
+    shortName: 'white-check-mark'
   },
   {
     name: 'Hong Kong Sar China Flag',
@@ -8393,7 +8367,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F58D-FE0F',
     sheet: [29, 31],
     hidden: ['messenger'],
-    shortName: 'lower_left_crayon'
+    shortName: 'lower-left-crayon'
   },
   {
     name: 'Hear-No-Evil Monkey',
@@ -8404,7 +8378,7 @@ export const emojis: CompressedEmojiData[] = [
       'nature'
     ],
     sheet: [32, 44],
-    shortName: 'hear_no_evil'
+    shortName: 'hear-no-evil'
   },
   {
     name: 'Cactus',
@@ -8422,7 +8396,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F33E',
     keywords: ['nature', 'plant'],
     sheet: [7, 0],
-    shortName: 'ear_of_rice'
+    shortName: 'ear-of-rice'
   },
   {
     name: 'Speak-No-Evil Monkey',
@@ -8434,7 +8408,7 @@ export const emojis: CompressedEmojiData[] = [
       'omg'
     ],
     sheet: [32, 45],
-    shortName: 'speak_no_evil'
+    shortName: 'speak-no-evil'
   },
   {
     name: 'Heard & Mcdonald Islands Flag',
@@ -8456,7 +8430,7 @@ export const emojis: CompressedEmojiData[] = [
       'tick'
     ],
     sheet: [47, 22],
-    shortName: 'ballot_box_with_check'
+    shortName: 'ballot-box-with-check'
   },
   {
     name: 'Canoe',
@@ -8523,7 +8497,7 @@ export const emojis: CompressedEmojiData[] = [
       'tick'
     ],
     sheet: [49, 44],
-    shortName: 'heavy_check_mark'
+    shortName: 'heavy-check-mark'
   },
   {
     name: 'Briefcase',
@@ -8591,7 +8565,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '2716-FE0F',
     keywords: ['math', 'calculation'],
     sheet: [49, 45],
-    shortName: 'heavy_multiplication_x'
+    shortName: 'heavy-multiplication-x'
   },
   {
     name: 'Child',
@@ -8655,7 +8629,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 18],
     hidden: ['messenger'],
-    shortName: 'passenger_ship'
+    shortName: 'passenger-ship'
   },
   {
     name: 'Croatia Flag',
@@ -8672,7 +8646,7 @@ export const emojis: CompressedEmojiData[] = [
       'office'
     ],
     sheet: [25, 44],
-    shortName: 'file_folder'
+    shortName: 'file-folder'
   },
   {
     name: 'Cross Mark',
@@ -8697,14 +8671,14 @@ export const emojis: CompressedEmojiData[] = [
       'irish'
     ],
     sheet: [7, 2],
-    shortName: 'four_leaf_clover'
+    shortName: 'four-leaf-clover'
   },
   {
     name: 'Open File Folder',
     unified: '1F4C2',
     keywords: ['documents', 'load'],
     sheet: [25, 45],
-    shortName: 'open_file_folder'
+    shortName: 'open-file-folder'
   },
   {
     name: 'Boy',
@@ -8797,7 +8771,7 @@ export const emojis: CompressedEmojiData[] = [
       'deny'
     ],
     sheet: [50, 2],
-    shortName: 'negative_squared_cross_mark'
+    shortName: 'negative-squared-cross-mark'
   },
   {
     name: 'Hungary Flag',
@@ -8815,7 +8789,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [30, 4],
     hidden: ['messenger'],
-    shortName: 'card_index_dividers'
+    shortName: 'card-index-dividers'
   },
   {
     name: 'Maple Leaf',
@@ -8828,7 +8802,7 @@ export const emojis: CompressedEmojiData[] = [
       'fall'
     ],
     sheet: [7, 3],
-    shortName: 'maple_leaf'
+    shortName: 'maple-leaf'
   },
   {
     name: 'Motor Boat',
@@ -8836,7 +8810,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['ship'],
     sheet: [37, 13],
     hidden: ['messenger'],
-    shortName: 'motor_boat'
+    shortName: 'motor-boat'
   },
   {
     name: 'Canary Islands Flag',
@@ -8854,7 +8828,7 @@ export const emojis: CompressedEmojiData[] = [
       'leaves'
     ],
     sheet: [7, 4],
-    shortName: 'fallen_leaf'
+    shortName: 'fallen-leaf'
   },
   {
     name: 'Adult',
@@ -8916,7 +8890,7 @@ export const emojis: CompressedEmojiData[] = [
       'increase'
     ],
     sheet: [50, 9],
-    shortName: 'heavy_plus_sign'
+    shortName: 'heavy-plus-sign'
   },
   {
     name: 'Calendar',
@@ -8993,7 +8967,7 @@ export const emojis: CompressedEmojiData[] = [
       'less'
     ],
     sheet: [50, 10],
-    shortName: 'heavy_minus_sign'
+    shortName: 'heavy-minus-sign'
   },
   {
     name: 'Tear-off Calendar',
@@ -9023,7 +8997,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F5D2-FE0F',
     sheet: [30, 8],
     hidden: ['messenger'],
-    shortName: 'spiral_note_pad'
+    shortName: 'spiral-note-pad'
   },
   {
     name: 'Heavy Division Sign',
@@ -9034,7 +9008,7 @@ export const emojis: CompressedEmojiData[] = [
       'calculation'
     ],
     sheet: [50, 11],
-    shortName: 'heavy_division_sign'
+    shortName: 'heavy-division-sign'
   },
   {
     name: 'Small Airplane',
@@ -9047,7 +9021,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 14],
     hidden: ['messenger'],
-    shortName: 'small_airplane'
+    shortName: 'small-airplane'
   },
   {
     name: 'Woman',
@@ -9098,7 +9072,7 @@ export const emojis: CompressedEmojiData[] = [
       'squiggle'
     ],
     sheet: [50, 13],
-    shortName: 'curly_loop'
+    shortName: 'curly-loop'
   },
   {
     name: 'Israel Flag',
@@ -9111,14 +9085,14 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F6EB',
     sheet: [37, 15],
     hidden: ['messenger'],
-    shortName: 'airplane_departure'
+    shortName: 'airplane-departure'
   },
   {
     name: 'Spiral Calendar Pad',
     unified: '1F5D3-FE0F',
     sheet: [30, 9],
     hidden: ['messenger'],
-    shortName: 'spiral_calendar_pad'
+    shortName: 'spiral-calendar-pad'
   },
   {
     name: 'Older Adult',
@@ -9158,14 +9132,14 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'older_adult'
+    shortName: 'older-adult'
   },
   {
     name: 'Airplane Arriving',
     unified: '1F6EC',
     sheet: [37, 16],
     hidden: ['messenger'],
-    shortName: 'airplane_arriving'
+    shortName: 'airplane-arriving'
   },
   {
     name: 'Card Index',
@@ -9175,7 +9149,7 @@ export const emojis: CompressedEmojiData[] = [
       'stationery'
     ],
     sheet: [25, 50],
-    shortName: 'card_index'
+    shortName: 'card-index'
   },
   {
     name: 'Double Curly Loop',
@@ -9218,7 +9192,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [22, 3]
       }
     ],
-    shortName: 'older_man'
+    shortName: 'older-man'
   },
   {
     name: 'Isle of Man Flag',
@@ -9248,7 +9222,7 @@ export const emojis: CompressedEmojiData[] = [
       'success'
     ],
     sheet: [25, 51],
-    shortName: 'chart_with_upwards_trend'
+    shortName: 'chart-with-upwards-trend'
   },
   {
     name: 'Part Alternation Mark',
@@ -9262,7 +9236,7 @@ export const emojis: CompressedEmojiData[] = [
       'bad'
     ],
     sheet: [50, 25],
-    shortName: 'part_alternation_mark'
+    shortName: 'part-alternation-mark'
   },
   {
     name: 'Seat',
@@ -9313,7 +9287,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [22, 9]
       }
     ],
-    shortName: 'older_woman'
+    shortName: 'older-woman'
   },
   {
     name: 'Eight Spoked Asterisk',
@@ -9324,7 +9298,7 @@ export const emojis: CompressedEmojiData[] = [
       'green-square'
     ],
     sheet: [49, 49],
-    shortName: 'eight_spoked_asterisk'
+    shortName: 'eight-spoked-asterisk'
   },
   {
     name: 'Chart with Downwards Trend',
@@ -9342,7 +9316,7 @@ export const emojis: CompressedEmojiData[] = [
       'failure'
     ],
     sheet: [26, 0],
-    shortName: 'chart_with_downwards_trend'
+    shortName: 'chart-with-downwards-trend'
   },
   {
     name: 'British Indian Ocean Territory Flag',
@@ -9437,7 +9411,7 @@ export const emojis: CompressedEmojiData[] = [
       'transportation'
     ],
     sheet: [34, 39],
-    shortName: 'suspension_railway'
+    shortName: 'suspension-railway'
   },
   {
     name: 'Bar Chart',
@@ -9448,7 +9422,7 @@ export const emojis: CompressedEmojiData[] = [
       'stats'
     ],
     sheet: [26, 1],
-    shortName: 'bar_chart'
+    shortName: 'bar-chart'
   },
   {
     name: 'Iraq Flag',
@@ -9465,7 +9439,7 @@ export const emojis: CompressedEmojiData[] = [
       'polygon'
     ],
     sheet: [49, 50],
-    shortName: 'eight_pointed_black_star'
+    shortName: 'eight-pointed-black-star'
   },
   {
     name: 'Mountain Cableway',
@@ -9476,7 +9450,7 @@ export const emojis: CompressedEmojiData[] = [
       'ski'
     ],
     sheet: [34, 40],
-    shortName: 'mountain_cableway'
+    shortName: 'mountain-cableway'
   },
   {
     name: 'Male Student',
@@ -9595,7 +9569,7 @@ export const emojis: CompressedEmojiData[] = [
       'ski'
     ],
     sheet: [34, 41],
-    shortName: 'aerial_tramway'
+    shortName: 'aerial-tramway'
   },
   {
     name: 'Iceland Flag',
@@ -9695,7 +9669,7 @@ export const emojis: CompressedEmojiData[] = [
       'here'
     ],
     sheet: [26, 4],
-    shortName: 'round_pushpin'
+    shortName: 'round-pushpin'
   },
   {
     name: 'Jersey Flag',
@@ -9719,7 +9693,7 @@ export const emojis: CompressedEmojiData[] = [
       'staffmode',
       'NASA',
       'outer space',
-      'outer_space',
+      'outer-space',
       'fly'
     ],
     sheet: [34, 8],
@@ -9774,7 +9748,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F587-FE0F',
     sheet: [29, 27],
     hidden: ['messenger'],
-    shortName: 'linked_paperclips'
+    shortName: 'linked-paperclips'
   },
   {
     name: 'Flying Saucer',
@@ -9786,7 +9760,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 23],
     hidden: ['messenger'],
-    shortName: 'flying_saucer'
+    shortName: 'flying-saucer'
   },
   {
     name: 'Male Judge',
@@ -9832,7 +9806,7 @@ export const emojis: CompressedEmojiData[] = [
       'confused'
     ],
     sheet: [50, 4],
-    shortName: 'grey_question'
+    shortName: 'grey-question'
   },
   {
     name: 'Jamaica Flag',
@@ -9846,7 +9820,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['service'],
     sheet: [37, 3],
     hidden: ['messenger'],
-    shortName: 'bellhop_bell'
+    shortName: 'bellhop-bell'
   },
   {
     name: 'Straight Ruler',
@@ -9862,7 +9836,7 @@ export const emojis: CompressedEmojiData[] = [
       'sketch'
     ],
     sheet: [26, 6],
-    shortName: 'straight_ruler'
+    shortName: 'straight-ruler'
   },
   {
     name: 'Jordan Flag',
@@ -9915,7 +9889,7 @@ export const emojis: CompressedEmojiData[] = [
       'warning'
     ],
     sheet: [50, 5],
-    shortName: 'grey_exclamation'
+    shortName: 'grey-exclamation'
   },
   {
     name: 'Door',
@@ -9986,13 +9960,13 @@ export const emojis: CompressedEmojiData[] = [
       'sketch'
     ],
     sheet: [26, 7],
-    shortName: 'triangular_ruler'
+    shortName: 'triangular-ruler'
   },
   {
     name: 'Heavy Exclamation Mark Symbol',
     unified: '2757',
     keywords: [
-      'heavy_exclamation_mark',
+      'heavy-exclamation-mark',
       'danger',
       'surprise',
       'punctuation',
@@ -10000,9 +9974,6 @@ export const emojis: CompressedEmojiData[] = [
       'warning'
     ],
     sheet: [50, 6],
-    shortNames: [
-      'heavy_exclamation_mark'
-    ],
     shortName: 'exclamation'
   },
   {
@@ -10066,7 +10037,7 @@ export const emojis: CompressedEmojiData[] = [
       'scribble'
     ],
     sheet: [50, 24],
-    shortName: 'wavy_dash'
+    shortName: 'wavy-dash'
   },
   {
     name: 'Kenya Flag',
@@ -10086,7 +10057,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['read', 'chill'],
     sheet: [36, 47],
     hidden: ['messenger'],
-    shortName: 'couch_and_lamp'
+    shortName: 'couch-and-lamp'
   },
   {
     name: 'Male Cook',
@@ -10131,7 +10102,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [30, 5],
     hidden: ['messenger'],
-    shortName: 'card_file_box'
+    shortName: 'card-file-box'
   },
   {
     name: 'Copyright Sign',
@@ -10157,7 +10128,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['filing', 'organizing'],
     sheet: [30, 6],
     hidden: ['messenger'],
-    shortName: 'file_cabinet'
+    shortName: 'file-cabinet'
   },
   {
     name: 'Registered Sign',
@@ -10435,7 +10406,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '002A-FE0F-20E3',
     sheet: [0, 1],
     hidden: ['facebook', 'messenger'],
-    shortName: 'keycap_star'
+    shortName: 'keycap-star'
   },
   {
     name: 'Open Lock',
@@ -10502,7 +10473,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F50F',
     keywords: ['security', 'secret'],
     sheet: [27, 17],
-    shortName: 'lock_with_ink_pen'
+    shortName: 'lock-with-ink-pen'
   },
   {
     name: 'Hourglass with Flowing Sand',
@@ -10513,7 +10484,7 @@ export const emojis: CompressedEmojiData[] = [
       'countdown'
     ],
     sheet: [47, 3],
-    shortName: 'hourglass_flowing_sand'
+    shortName: 'hourglass-flowing-sand'
   },
   {
     name: 'Keycap 1',
@@ -10588,7 +10559,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F510',
     keywords: ['security', 'privacy'],
     sheet: [27, 18],
-    shortName: 'closed_lock_with_key'
+    shortName: 'closed-lock-with-key'
   },
   {
     name: 'Female Office Worker',
@@ -10642,7 +10613,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '23F0',
     keywords: ['time', 'wake'],
     sheet: [47, 0],
-    shortName: 'alarm_clock'
+    shortName: 'alarm-clock'
   },
   {
     name: 'Key',
@@ -10732,7 +10703,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [30, 11],
     hidden: ['messenger'],
-    shortName: 'old_key'
+    shortName: 'old-key'
   },
   {
     name: 'Kazakhstan Flag',
@@ -10791,7 +10762,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['alarm'],
     sheet: [47, 2],
     hidden: ['messenger'],
-    shortName: 'timer_clock'
+    shortName: 'timer-clock'
   },
   {
     name: 'Keycap 4',
@@ -10845,7 +10816,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['time'],
     sheet: [28, 43],
     hidden: ['messenger'],
-    shortName: 'mantelpiece_clock'
+    shortName: 'mantelpiece-clock'
   },
   {
     name: 'Keycap 5',
@@ -10905,7 +10876,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [48, 11],
     hidden: ['messenger'],
-    shortName: 'hammer_and_pick'
+    shortName: 'hammer-and-pick'
   },
   {
     name: 'Keycap 6',
@@ -10963,7 +10934,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [37, 8],
     hidden: ['messenger'],
-    shortName: 'hammer_and_wrench'
+    shortName: 'hammer-and-wrench'
   },
   {
     name: 'St. Lucia Flag',
@@ -11053,7 +11024,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F5E1-FE0F',
     sheet: [30, 13],
     hidden: ['messenger'],
-    shortName: 'dagger_knife'
+    shortName: 'dagger-knife'
   },
   {
     name: 'Clock Face One Oclock',
@@ -11141,7 +11112,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['weapon'],
     sheet: [48, 13],
     hidden: ['messenger'],
-    shortName: 'crossed_swords'
+    shortName: 'crossed-swords'
   },
   {
     name: 'Keycap 9',
@@ -11206,7 +11177,7 @@ export const emojis: CompressedEmojiData[] = [
       'blue-square'
     ],
     sheet: [27, 33],
-    shortName: 'keycap_ten'
+    shortName: 'keycap-ten'
   },
   {
     name: 'Female Artist',
@@ -11283,7 +11254,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['sports'],
     sheet: [12, 23],
     hidden: ['messenger'],
-    shortName: 'bow_and_arrow'
+    shortName: 'bow-and-arrow'
   },
   {
     name: 'Male Pilot',
@@ -11340,7 +11311,7 @@ export const emojis: CompressedEmojiData[] = [
       'blue-square'
     ],
     sheet: [27, 34],
-    shortName: 'capital_abcd'
+    shortName: 'capital-abcd'
   },
   {
     name: 'Female Pilot',
@@ -11479,7 +11450,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F529',
     keywords: ['handy', 'tools', 'fix'],
     sheet: [27, 43],
-    shortName: 'nut_and_bolt'
+    shortName: 'nut-and-bolt'
   },
   {
     name: 'Input Symbol for Numbers',
@@ -11961,7 +11932,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'sleuth_or_spy',
+    shortName: 'sleuth-or-spy',
     obsoletedBy: '1F575-FE0F-200D-2642-FE0F'
   },
   {
@@ -12191,7 +12162,7 @@ export const emojis: CompressedEmojiData[] = [
       'letter'
     ],
     sheet: [46, 32],
-    shortName: 'information_source'
+    shortName: 'information-source'
   },
   {
     name: 'Macedonia Flag',
@@ -12317,7 +12288,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [48, 25],
     hidden: ['messenger'],
-    shortName: 'funeral_urn'
+    shortName: 'funeral-urn'
   },
   {
     name: 'Female Guard',
@@ -12431,7 +12402,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'construction_worker',
+    shortName: 'construction-worker',
     obsoletedBy: '1F477-200D-2642-FE0F'
   },
   {
@@ -12517,7 +12488,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['barrell'],
     sheet: [37, 10],
     hidden: ['messenger'],
-    shortName: 'oil_drum'
+    shortName: 'oil-drum'
   },
   {
     name: 'Negative Squared Latin Capital Letter O',
@@ -12584,10 +12555,10 @@ export const emojis: CompressedEmojiData[] = [
       'party',
       'magic',
       'circus',
-      'fortune_teller'
+      'fortune-teller'
     ],
     sheet: [27, 48],
-    shortName: 'crystal_ball'
+    shortName: 'crystal-ball'
   },
   {
     name: 'Northern Mariana Islands Flag',
@@ -12673,7 +12644,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F6D2',
     sheet: [37, 7],
     hidden: ['messenger'],
-    shortName: 'shopping_trolley'
+    shortName: 'shopping-trolley'
   },
   {
     name: 'Mauritania Flag',
@@ -12731,7 +12702,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 9],
-    shortName: 'new_moon'
+    shortName: 'new-moon'
   },
   {
     name: 'Negative Squared Latin Capital Letter P',
@@ -12796,7 +12767,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'man_with_turban',
+    shortName: 'man-with-turban',
     obsoletedBy: '1F473-200D-2642-FE0F'
   },
   {
@@ -12818,7 +12789,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 10],
-    shortName: 'waxing_crescent_moon'
+    shortName: 'waxing-crescent-moon'
   },
   {
     name: 'Squared Up with Exclamation Mark',
@@ -12844,7 +12815,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 11],
-    shortName: 'first_quarter_moon'
+    shortName: 'first-quarter-moon'
   },
   {
     name: 'Malta Flag',
@@ -12891,7 +12862,7 @@ export const emojis: CompressedEmojiData[] = [
     name: 'Waxing Gibbous Moon Symbol',
     unified: '1F314',
     sheet: [6, 12],
-    shortNames: ['waxing_gibbous_moon'],
+    shortNames: ['waxing-gibbous-moon'],
     shortName: 'moon'
   },
   {
@@ -12975,7 +12946,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [21, 31]
       }
     ],
-    shortName: 'man_with_gua_pi_mao'
+    shortName: 'man-with-gua-pi-mao'
   },
   {
     name: 'Squared Katakana Koko',
@@ -13004,7 +12975,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 13],
-    shortName: 'full_moon'
+    shortName: 'full-moon'
   },
   {
     name: 'Maldives Flag',
@@ -13044,7 +13015,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'person_with_headscarf'
+    shortName: 'person-with-headscarf'
   },
   {
     name: 'Waning Gibbous Moon Symbol',
@@ -13057,10 +13028,10 @@ export const emojis: CompressedEmojiData[] = [
       'night',
       'evening',
       'sleep',
-      'waxing_gibbous_moon'
+      'waxing-gibbous-moon'
     ],
     sheet: [6, 14],
-    shortName: 'waning_gibbous_moon'
+    shortName: 'waning-gibbous-moon'
   },
   {
     name: 'Squared Katakana Sa',
@@ -13092,7 +13063,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 15],
-    shortName: 'last_quarter_moon'
+    shortName: 'last-quarter-moon'
   },
   {
     name: 'Squared Cjk Unified Ideograph-6708',
@@ -13141,7 +13112,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'bearded_person'
+    shortName: 'bearded-person'
   },
   {
     name: 'Mexico Flag',
@@ -13193,7 +13164,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'person_with_blond_hair',
+    shortName: 'person-with-blond-hair',
     obsoletedBy: '1F471-200D-2642-FE0F'
   },
   {
@@ -13209,7 +13180,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 16],
-    shortName: 'waning_crescent_moon'
+    shortName: 'waning-crescent-moon'
   },
   {
     name: 'Malaysia Flag',
@@ -13275,7 +13246,7 @@ export const emojis: CompressedEmojiData[] = [
       'magic'
     ],
     sheet: [6, 17],
-    shortName: 'crescent_moon'
+    shortName: 'crescent-moon'
   },
   {
     name: 'Mozambique Flag',
@@ -13296,7 +13267,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 18],
-    shortName: 'new_moon_with_face'
+    shortName: 'new-moon-with-face'
   },
   {
     name: 'Namibia Flag',
@@ -13349,7 +13320,7 @@ export const emojis: CompressedEmojiData[] = [
       'circle'
     ],
     sheet: [5, 42],
-    shortName: 'ideograph_advantage'
+    shortName: 'ideograph-advantage'
   },
   {
     name: 'First Quarter Moon with Face',
@@ -13364,7 +13335,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 19],
-    shortName: 'first_quarter_moon_with_face'
+    shortName: 'first-quarter-moon-with-face'
   },
   {
     name: 'Man in Tuxedo',
@@ -13404,7 +13375,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'man_in_tuxedo'
+    shortName: 'man-in-tuxedo'
   },
   {
     name: 'New Caledonia Flag',
@@ -13445,7 +13416,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 20],
-    shortName: 'last_quarter_moon_with_face'
+    shortName: 'last-quarter-moon-with-face'
   },
   {
     name: 'Squared Cjk Unified Ideograph-7121',
@@ -13493,7 +13464,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [21, 7]
       }
     ],
-    shortName: 'bride_with_veil'
+    shortName: 'bride-with-veil'
   },
   {
     name: 'Squared Cjk Unified Ideograph-7981',
@@ -13543,7 +13514,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'pregnant_woman'
+    shortName: 'pregnant-woman'
   },
   {
     name: 'Thermometer',
@@ -13646,7 +13617,7 @@ export const emojis: CompressedEmojiData[] = [
       'sleep'
     ],
     sheet: [6, 21],
-    shortName: 'full_moon_with_face'
+    shortName: 'full-moon-with-face'
   },
   {
     name: 'Nicaragua Flag',
@@ -13708,7 +13679,7 @@ export const emojis: CompressedEmojiData[] = [
       'sky'
     ],
     sheet: [6, 22],
-    shortName: 'sun_with_face'
+    shortName: 'sun-with-face'
   },
   {
     name: 'Father Christmas',
@@ -13802,8 +13773,8 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortNames: ['mother_christmas'],
-    shortName: 'mrs_claus'
+    shortNames: ['mother-christmas'],
+    shortName: 'mrs-claus'
   },
   {
     name: 'Squared Cjk Unified Ideograph-7a7a',
@@ -13944,7 +13915,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'female_mage'
+    shortName: 'female-mage'
   },
   {
     name: 'Circled Ideograph Secret',
@@ -14008,7 +13979,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'male_mage'
+    shortName: 'male-mage'
   },
   {
     name: 'Cloud',
@@ -14035,7 +14006,7 @@ export const emojis: CompressedEmojiData[] = [
       'spring'
     ],
     sheet: [48, 29],
-    shortName: 'partly_sunny'
+    shortName: 'partly-sunny'
   },
   {
     name: 'Fairy',
@@ -14090,14 +14061,14 @@ export const emojis: CompressedEmojiData[] = [
     unified: '25AA-FE0F',
     keywords: ['shape', 'icon'],
     sheet: [47, 8],
-    shortName: 'black_small_square'
+    shortName: 'black-small-square'
   },
   {
     name: 'Thunder Cloud and Rain',
     unified: '26C8-FE0F',
     sheet: [48, 30],
     hidden: ['messenger'],
-    shortName: 'thunder_cloud_and_rain'
+    shortName: 'thunder-cloud-and-rain'
   },
   {
     name: 'Female Fairy',
@@ -14132,7 +14103,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'female_fairy'
+    shortName: 'female-fairy'
   },
   {
     name: 'Oman Flag',
@@ -14145,7 +14116,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '25AB-FE0F',
     keywords: ['shape', 'icon'],
     sheet: [47, 9],
-    shortName: 'white_small_square'
+    shortName: 'white-small-square'
   },
   {
     name: 'Panama Flag',
@@ -14158,8 +14129,8 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F324-FE0F',
     sheet: [6, 26],
     hidden: ['messenger'],
-    shortNames: ['sun_small_cloud'],
-    shortName: 'mostly_sunny'
+    shortNames: ['sun-small-cloud'],
+    shortName: 'mostly-sunny'
   },
   {
     name: 'Male Fairy',
@@ -14193,15 +14164,15 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'male_fairy'
+    shortName: 'male-fairy'
   },
   {
     name: 'Barely Sunny',
     unified: '1F325-FE0F',
     sheet: [6, 27],
     hidden: ['messenger'],
-    shortNames: ['sun_behind_cloud'],
-    shortName: 'barely_sunny'
+    shortNames: ['sun-behind-cloud'],
+    shortName: 'barely-sunny'
   },
   {
     name: 'White Medium Square',
@@ -14212,7 +14183,7 @@ export const emojis: CompressedEmojiData[] = [
       'icon'
     ],
     sheet: [47, 12],
-    shortName: 'white_medium_square'
+    shortName: 'white-medium-square'
   },
   {
     name: 'Peru Flag',
@@ -14288,15 +14259,15 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'female_vampire'
+    shortName: 'female-vampire'
   },
   {
     name: 'Partly Sunny Rain',
     unified: '1F326-FE0F',
     sheet: [6, 28],
     hidden: ['messenger'],
-    shortNames: ['sun_behind_rain_cloud'],
-    shortName: 'partly_sunny_rain'
+    shortNames: ['sun-behind-rain-cloud'],
+    shortName: 'partly-sunny-rain'
   },
   {
     name: 'French Polynesia Flag',
@@ -14313,7 +14284,7 @@ export const emojis: CompressedEmojiData[] = [
       'icon'
     ],
     sheet: [47, 13],
-    shortName: 'black_medium_square'
+    shortName: 'black-medium-square'
   },
   {
     name: 'White Medium Small Square',
@@ -14325,14 +14296,14 @@ export const emojis: CompressedEmojiData[] = [
       'button'
     ],
     sheet: [47, 14],
-    shortName: 'white_medium_small_square'
+    shortName: 'white-medium-small-square'
   },
   {
     name: 'Rain Cloud',
     unified: '1F327-FE0F',
     sheet: [6, 29],
     hidden: ['messenger'],
-    shortName: 'rain_cloud'
+    shortName: 'rain-cloud'
   },
   {
     name: 'Papua New Guinea Flag',
@@ -14372,7 +14343,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'male_vampire'
+    shortName: 'male-vampire'
   },
   {
     name: 'Philippines Flag',
@@ -14424,21 +14395,21 @@ export const emojis: CompressedEmojiData[] = [
       'button'
     ],
     sheet: [47, 15],
-    shortName: 'black_medium_small_square'
+    shortName: 'black-medium-small-square'
   },
   {
     name: 'Snow Cloud',
     unified: '1F328-FE0F',
     sheet: [6, 30],
     hidden: ['messenger'],
-    shortName: 'snow_cloud'
+    shortName: 'snow-cloud'
   },
   {
     name: 'Lightning',
     unified: '1F329-FE0F',
     sheet: [6, 31],
     hidden: ['messenger'],
-    shortNames: ['lightning_cloud'],
+    shortNames: ['lightning-cloud'],
     shortName: 'lightning'
   },
   {
@@ -14450,7 +14421,7 @@ export const emojis: CompressedEmojiData[] = [
       'button'
     ],
     sheet: [50, 20],
-    shortName: 'black_large_square'
+    shortName: 'black-large-square'
   },
   {
     name: 'Mermaid',
@@ -14544,7 +14515,7 @@ export const emojis: CompressedEmojiData[] = [
       'button'
     ],
     sheet: [50, 21],
-    shortName: 'white_large_square'
+    shortName: 'white-large-square'
   },
   {
     name: 'Tornado',
@@ -14556,7 +14527,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [6, 32],
     hidden: ['messenger'],
-    shortNames: ['tornado_cloud'],
+    shortNames: ['tornado-cloud'],
     shortName: 'tornado'
   },
   {
@@ -14613,7 +14584,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F536',
     keywords: ['shape', 'jewel', 'gem'],
     sheet: [28, 4],
-    shortName: 'large_orange_diamond'
+    shortName: 'large-orange-diamond'
   },
   {
     name: 'St. Pierre & Miquelon Flag',
@@ -14633,7 +14604,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F32C-FE0F',
     sheet: [6, 34],
     hidden: ['messenger'],
-    shortName: 'wind_blowing_face'
+    shortName: 'wind-blowing-face'
   },
   {
     name: 'Female Elf',
@@ -14667,14 +14638,14 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'female_elf'
+    shortName: 'female-elf'
   },
   {
     name: 'Large Blue Diamond',
     unified: '1F537',
     keywords: ['shape', 'jewel', 'gem'],
     sheet: [28, 5],
-    shortName: 'large_blue_diamond'
+    shortName: 'large-blue-diamond'
   },
   {
     name: 'Male Elf',
@@ -14709,14 +14680,14 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'male_elf'
+    shortName: 'male-elf'
   },
   {
     name: 'Small Orange Diamond',
     unified: '1F538',
     keywords: ['shape', 'jewel', 'gem'],
     sheet: [28, 6],
-    shortName: 'small_orange_diamond'
+    shortName: 'small-orange-diamond'
   },
   {
     name: 'Puerto Rico Flag',
@@ -14749,7 +14720,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: [
       'nature',
       'happy',
-      'unicorn_face',
+      'unicorn-face',
       'photo',
       'sky',
       'spring'
@@ -14762,7 +14733,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F539',
     keywords: ['shape', 'jewel', 'gem'],
     sheet: [28, 7],
-    shortName: 'small_blue_diamond'
+    shortName: 'small-blue-diamond'
   },
   {
     name: 'Genie',
@@ -14788,7 +14759,7 @@ export const emojis: CompressedEmojiData[] = [
       'top'
     ],
     sheet: [28, 8],
-    shortName: 'small_red_triangle'
+    shortName: 'small-red-triangle'
   },
   {
     name: 'Closed Umbrella',
@@ -14799,14 +14770,14 @@ export const emojis: CompressedEmojiData[] = [
       'drizzle'
     ],
     sheet: [5, 46],
-    shortName: 'closed_umbrella'
+    shortName: 'closed-umbrella'
   },
   {
     name: 'Female Genie',
     unified: '1F9DE-200D-2640-FE0F',
     sheet: [46, 16],
     hidden: ['messenger'],
-    shortName: 'female_genie'
+    shortName: 'female-genie'
   },
   {
     name: 'Portugal Flag',
@@ -14829,7 +14800,7 @@ export const emojis: CompressedEmojiData[] = [
       'bottom'
     ],
     sheet: [28, 9],
-    shortName: 'small_red_triangle_down'
+    shortName: 'small-red-triangle-down'
   },
   {
     name: 'Umbrella',
@@ -14849,7 +14820,7 @@ export const emojis: CompressedEmojiData[] = [
     obsoletes: '1F9DE',
     sheet: [46, 17],
     hidden: ['messenger'],
-    shortName: 'male_genie'
+    shortName: 'male-genie'
   },
   {
     name: 'Zombie',
@@ -14876,13 +14847,13 @@ export const emojis: CompressedEmojiData[] = [
       'fancy'
     ],
     sheet: [25, 6],
-    shortName: 'diamond_shape_with_a_dot_inside'
+    shortName: 'diamond-shape-with-a-dot-inside'
   },
   {
     name: 'Umbrella with Rain Drops',
     unified: '2614',
     sheet: [47, 23],
-    shortName: 'umbrella_with_rain_drops'
+    shortName: 'umbrella-with-rain-drops'
   },
   {
     name: 'Radio Button',
@@ -14894,14 +14865,14 @@ export const emojis: CompressedEmojiData[] = [
       'circle'
     ],
     sheet: [27, 26],
-    shortName: 'radio_button'
+    shortName: 'radio-button'
   },
   {
     name: 'Female Zombie',
     unified: '1F9DF-200D-2640-FE0F',
     sheet: [46, 19],
     hidden: ['messenger'],
-    shortName: 'female_zombie'
+    shortName: 'female-zombie'
   },
   {
     name: 'Qatar Flag',
@@ -14914,7 +14885,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '26F1-FE0F',
     sheet: [48, 39],
     hidden: ['messenger'],
-    shortName: 'umbrella_on_ground'
+    shortName: 'umbrella-on-ground'
   },
   {
     name: 'Black Square Button',
@@ -14925,7 +14896,7 @@ export const emojis: CompressedEmojiData[] = [
       'frame'
     ],
     sheet: [28, 0],
-    shortName: 'black_square_button'
+    shortName: 'black-square-button'
   },
   {
     name: 'High Voltage Sign',
@@ -14945,7 +14916,7 @@ export const emojis: CompressedEmojiData[] = [
     obsoletes: '1F9DF',
     sheet: [46, 20],
     hidden: ['messenger'],
-    shortName: 'male_zombie'
+    shortName: 'male-zombie'
   },
   {
     name: 'Réunion Flag',
@@ -14979,7 +14950,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F533',
     keywords: ['shape', 'input'],
     sheet: [28, 1],
-    shortName: 'white_square_button'
+    shortName: 'white-square-button'
   },
   {
     name: 'Person Frowning',
@@ -15013,7 +14984,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'person_frowning',
+    shortName: 'person-frowning',
     obsoletedBy: '1F64D-200D-2640-FE0F'
   },
   {
@@ -15061,7 +15032,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '26AA',
     keywords: ['shape', 'round'],
     sheet: [48, 22],
-    shortName: 'white_circle'
+    shortName: 'white-circle'
   },
   {
     name: 'Snowman',
@@ -15074,7 +15045,7 @@ export const emojis: CompressedEmojiData[] = [
       'christmas',
       'xmas',
       'frozen',
-      'without_snow'
+      'without-snow'
     ],
     sheet: [47, 19],
     hidden: ['messenger'],
@@ -15084,7 +15055,7 @@ export const emojis: CompressedEmojiData[] = [
     name: 'Snowman Without Snow',
     unified: '26C4',
     sheet: [48, 28],
-    shortName: 'snowman_without_snow'
+    shortName: 'snowman-without-snow'
   },
   {
     name: 'Russia Flag',
@@ -15110,7 +15081,7 @@ export const emojis: CompressedEmojiData[] = [
       'round'
     ],
     sheet: [48, 23],
-    shortName: 'black_circle'
+    shortName: 'black-circle'
   },
   {
     name: 'Woman Frowning',
@@ -15193,7 +15164,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'person_with_pouting_face',
+    shortName: 'person-with-pouting-face',
     obsoletedBy: '1F64E-200D-2640-FE0F'
   },
   {
@@ -15205,7 +15176,7 @@ export const emojis: CompressedEmojiData[] = [
       'danger'
     ],
     sheet: [28, 2],
-    shortName: 'red_circle'
+    shortName: 'red-circle'
   },
   {
     name: 'Large Blue Circle',
@@ -15216,7 +15187,7 @@ export const emojis: CompressedEmojiData[] = [
       'button'
     ],
     sheet: [28, 3],
-    shortName: 'large_blue_circle'
+    shortName: 'large-blue-circle'
   },
   {
     name: 'Man Pouting',
@@ -15350,7 +15321,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'no_good',
+    shortName: 'no-good',
     obsoletedBy: '1F645-200D-2640-FE0F'
   },
   {
@@ -15500,7 +15471,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'ok_woman',
+    shortName: 'ok-woman',
     obsoletedBy: '1F646-200D-2640-FE0F'
   },
   {
@@ -15616,7 +15587,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'information_desk_person',
+    shortName: 'information-desk-person',
     obsoletedBy: '1F481-200D-2640-FE0F'
   },
   {
@@ -15744,7 +15715,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'raising_hand',
+    shortName: 'raising-hand',
     obsoletedBy: '1F64B-200D-2640-FE0F'
   },
   {
@@ -15982,7 +15953,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'face_palm'
+    shortName: 'face-palm'
   },
   {
     name: 'El Salvador Flag',
@@ -16764,7 +16735,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'man_dancing'
+    shortName: 'man-dancing'
   },
   {
     name: 'Woman with Bunny Ears',
@@ -16845,7 +16816,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'person_in_steamy_room',
+    shortName: 'person-in-steamy-room',
     obsoletedBy: '1F9D6-200D-2642-FE0F'
   },
   {
@@ -16887,7 +16858,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'woman_in_steamy_room'
+    shortName: 'woman-in-steamy-room'
   },
   {
     name: 'United Nations Flag',
@@ -16952,7 +16923,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'man_in_steamy_room'
+    shortName: 'man-in-steamy-room'
   },
   {
     name: 'Person Climbing',
@@ -16986,7 +16957,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'person_climbing',
+    shortName: 'person-climbing',
     obsoletedBy: '1F9D7-200D-2640-FE0F'
   },
   {
@@ -17028,7 +16999,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'woman_climbing'
+    shortName: 'woman-climbing'
   },
   {
     name: 'Uzbekistan Flag',
@@ -17068,7 +17039,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'man_climbing'
+    shortName: 'man-climbing'
   },
   {
     name: 'Vatican City Flag',
@@ -17108,7 +17079,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'person_in_lotus_position',
+    shortName: 'person-in-lotus-position',
     obsoletedBy: '1F9D8-200D-2640-FE0F'
   },
   {
@@ -17165,7 +17136,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'woman_in_lotus_position'
+    shortName: 'woman-in-lotus-position'
   },
   {
     name: 'Man in Lotus Position',
@@ -17208,7 +17179,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'man_in_lotus_position'
+    shortName: 'man-in-lotus-position'
   },
   {
     name: 'British Virgin Islands Flag',
@@ -17287,7 +17258,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'sleeping_accommodation'
+    shortName: 'sleeping-accommodation'
   },
   {
     name: 'Vietnam Flag',
@@ -17327,7 +17298,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'man_in_business_suit_levitating'
+    shortName: 'man-in-business-suit-levitating'
   },
   {
     name: 'Vanuatu Flag',
@@ -17347,7 +17318,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F5E3-FE0F',
     sheet: [30, 14],
     hidden: ['messenger'],
-    shortName: 'speaking_head_in_silhouette'
+    shortName: 'speaking-head-in-silhouette'
   },
   {
     name: 'Bust in Silhouette',
@@ -17358,7 +17329,7 @@ export const emojis: CompressedEmojiData[] = [
       'human'
     ],
     sheet: [15, 40],
-    shortName: 'bust_in_silhouette'
+    shortName: 'bust-in-silhouette'
   },
   {
     name: 'Samoa Flag',
@@ -17377,7 +17348,7 @@ export const emojis: CompressedEmojiData[] = [
       'team'
     ],
     sheet: [15, 41],
-    shortName: 'busts_in_silhouette'
+    shortName: 'busts-in-silhouette'
   },
   {
     name: 'Kosovo Flag',
@@ -17439,7 +17410,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [10, 25]
       }
     ],
-    shortName: 'horse_racing'
+    shortName: 'horse-racing'
   },
   {
     name: 'South Africa Flag',
@@ -17969,7 +17940,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'person_with_ball',
+    shortName: 'person-with-ball',
     obsoletedBy: '26F9-FE0F-200D-2642-FE0F'
   },
   {
@@ -18073,7 +18044,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'weight_lifter',
+    shortName: 'weight-lifter',
     obsoletedBy: '1F3CB-FE0F-200D-2642-FE0F'
   },
   {
@@ -18281,7 +18252,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook']
       }
     ],
-    shortName: 'mountain_bicyclist',
+    shortName: 'mountain-bicyclist',
     obsoletedBy: '1F6B5-200D-2642-FE0F'
   },
   {
@@ -18365,14 +18336,14 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [11, 31],
     hidden: ['messenger'],
-    shortName: 'racing_car'
+    shortName: 'racing-car'
   },
   {
     name: 'Racing Motorcycle',
     unified: '1F3CD-FE0F',
     sheet: [11, 30],
     hidden: ['messenger'],
-    shortName: 'racing_motorcycle'
+    shortName: 'racing-motorcycle'
   },
   {
     name: 'Person Doing Cartwheel',
@@ -18406,7 +18377,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'person_doing_cartwheel'
+    shortName: 'person-doing-cartwheel'
   },
   {
     name: 'Man Cartwheeling',
@@ -18529,7 +18500,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['facebook', 'messenger']
       }
     ],
-    shortName: 'water_polo'
+    shortName: 'water-polo'
   },
   {
     name: 'Man Playing Water Polo',
@@ -18819,9 +18790,6 @@ export const emojis: CompressedEmojiData[] = [
       'marriage'
     ],
     sheet: [20, 30],
-    shortNames: [
-      'man_and_woman_holding_hands'
-    ],
     shortName: 'couple'
   },
   {
@@ -18838,7 +18806,7 @@ export const emojis: CompressedEmojiData[] = [
       'human'
     ],
     sheet: [20, 31],
-    shortName: 'two_men_holding_hands'
+    shortName: 'two-men-holding-hands'
   },
   {
     name: 'Two Women Holding Hands',
@@ -18854,7 +18822,7 @@ export const emojis: CompressedEmojiData[] = [
       'human'
     ],
     sheet: [20, 32],
-    shortName: 'two_women_holding_hands'
+    shortName: 'two-women-holding-hands'
   },
   {
     name: 'Kiss',
@@ -18889,7 +18857,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F491',
     sheet: [24, 43],
     hidden: ['facebook'],
-    shortName: 'couple_with_heart',
+    shortName: 'couple-with-heart',
     obsoletedBy: '1F469-200D-2764-FE0F-200D-1F468'
   },
   {
@@ -19186,7 +19154,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [14, 24]
       }
     ],
-    shortName: 'point_left'
+    shortName: 'point-left'
   },
   {
     name: 'White Right Pointing Backhand Index',
@@ -19220,7 +19188,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [14, 30]
       }
     ],
-    shortName: 'point_right'
+    shortName: 'point-right'
   },
   {
     name: 'White Up Pointing Index',
@@ -19254,7 +19222,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [47, 31]
       }
     ],
-    shortName: 'point_up'
+    shortName: 'point-up'
   },
   {
     name: 'White Up Pointing Backhand Index',
@@ -19288,7 +19256,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [14, 12]
       }
     ],
-    shortName: 'point_up_2'
+    shortName: 'point-up-2'
   },
   {
     name: 'Reversed Hand with Middle Finger Extended',
@@ -19322,10 +19290,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortNames: [
-      'reversed_hand_with_middle_finger_extended'
-    ],
-    shortName: 'middle_finger'
+    shortName: 'middle-finger'
   },
   {
     name: 'White Down Pointing Backhand Index',
@@ -19359,7 +19324,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [14, 18]
       }
     ],
-    shortName: 'point_down'
+    shortName: 'point-down'
   },
   {
     name: 'Victory Hand',
@@ -19430,10 +19395,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortNames: [
-      'hand_with_index_and_middle_fingers_crossed'
-    ],
-    shortName: 'crossed_fingers'
+    shortName: 'crossed-fingers'
   },
   {
     name: 'Raised Hand with Part Between Middle and Ring Fingers',
@@ -19501,8 +19463,8 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortNames: ['sign_of_the_horns'],
-    shortName: 'the_horns'
+    shortNames: ['sign-of-the-horns'],
+    shortName: 'the-horns'
   },
   {
     name: 'Call Me Hand',
@@ -19537,7 +19499,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'call_me_hand'
+    shortName: 'call-me-hand'
   },
   {
     name: 'Raised Hand with Fingers Splayed',
@@ -19576,7 +19538,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'raised_hand_with_fingers_splayed'
+    shortName: 'raised-hand-with-fingers-splayed'
   },
   {
     name: 'Raised Hand',
@@ -19604,7 +19566,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [49, 29]
       }
     ],
-    shortNames: ['raised_hand'],
+    shortNames: ['raised-hand'],
     shortName: 'hand'
   },
   {
@@ -19640,7 +19602,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [14, 48]
       }
     ],
-    shortName: 'ok_hand'
+    shortName: 'ok-hand'
   },
   {
     name: 'Thumbs Up Sign',
@@ -19819,7 +19781,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'left-facing_fist'
+    shortName: 'left-facing-fist'
   },
   {
     name: 'Right-Facing Fist',
@@ -19853,7 +19815,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'right-facing_fist'
+    shortName: 'right-facing-fist'
   },
   {
     name: 'Raised Back of Hand',
@@ -19892,7 +19854,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'raised_back_of_hand'
+    shortName: 'raised-back-of-hand'
   },
   {
     name: 'Waving Hand Sign',
@@ -19964,13 +19926,13 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'i_love_you_hand_sign'
+    shortName: 'i-love-you-hand-sign'
   },
   {
     name: 'Writing Hand',
     unified: '270D-FE0F',
     keywords: [
-      'lower_left_ballpoint_pen',
+      'lower-left-ballpoint-pen',
       'stationery',
       'write',
       'compose'
@@ -20004,7 +19966,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'writing_hand'
+    shortName: 'writing-hand'
   },
   {
     name: 'Clapping Hands Sign',
@@ -20073,7 +20035,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [15, 20]
       }
     ],
-    shortName: 'open_hands'
+    shortName: 'open-hands'
   },
   {
     name: 'Person Raising Both Hands in Celebration',
@@ -20108,7 +20070,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [33, 17]
       }
     ],
-    shortName: 'raised_hands'
+    shortName: 'raised-hands'
   },
   {
     name: 'Palms Up Together',
@@ -20142,7 +20104,7 @@ export const emojis: CompressedEmojiData[] = [
         hidden: ['messenger']
       }
     ],
-    shortName: 'palms_up_together'
+    shortName: 'palms-up-together'
   },
   {
     name: 'Person with Folded Hands',
@@ -20220,7 +20182,7 @@ export const emojis: CompressedEmojiData[] = [
         sheet: [23, 49]
       }
     ],
-    shortName: 'nail_care'
+    shortName: 'nail-care'
   },
   {
     name: 'Ear',
@@ -20424,7 +20386,7 @@ export const emojis: CompressedEmojiData[] = [
       'heartbreak'
     ],
     sheet: [24, 46],
-    shortName: 'broken_heart'
+    shortName: 'broken-heart'
   },
   {
     name: 'Two Hearts',
@@ -20437,7 +20399,7 @@ export const emojis: CompressedEmojiData[] = [
       'heart'
     ],
     sheet: [24, 47],
-    shortName: 'two_hearts'
+    shortName: 'two-hearts'
   },
   {
     name: 'Sparkling Heart',
@@ -20449,7 +20411,7 @@ export const emojis: CompressedEmojiData[] = [
       'valentines'
     ],
     sheet: [24, 48],
-    shortName: 'sparkling_heart'
+    shortName: 'sparkling-heart'
   },
   {
     name: 'Growing Heart',
@@ -20475,7 +20437,7 @@ export const emojis: CompressedEmojiData[] = [
       'valentines'
     ],
     sheet: [24, 51],
-    shortName: 'blue_heart'
+    shortName: 'blue-heart'
   },
   {
     name: 'Green Heart',
@@ -20488,7 +20450,7 @@ export const emojis: CompressedEmojiData[] = [
       'valentines'
     ],
     sheet: [25, 0],
-    shortName: 'green_heart'
+    shortName: 'green-heart'
   },
   {
     name: 'Yellow Heart',
@@ -20501,7 +20463,7 @@ export const emojis: CompressedEmojiData[] = [
       'valentines'
     ],
     sheet: [25, 1],
-    shortName: 'yellow_heart'
+    shortName: 'yellow-heart'
   },
   {
     name: 'Orange Heart',
@@ -20514,7 +20476,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [46, 23],
     hidden: ['messenger'],
-    shortName: 'orange_heart'
+    shortName: 'orange-heart'
   },
   {
     name: 'Purple Heart',
@@ -20527,7 +20489,7 @@ export const emojis: CompressedEmojiData[] = [
       'valentines'
     ],
     sheet: [25, 2],
-    shortName: 'purple_heart'
+    shortName: 'purple-heart'
   },
   {
     name: 'Black Heart',
@@ -20535,14 +20497,14 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['evil'],
     sheet: [29, 50],
     hidden: ['messenger'],
-    shortName: 'black_heart'
+    shortName: 'black-heart'
   },
   {
     name: 'Heart with Ribbon',
     unified: '1F49D',
     keywords: ['love', 'valentines'],
     sheet: [25, 3],
-    shortName: 'gift_heart'
+    shortName: 'gift-heart'
   },
   {
     name: 'Revolving Hearts',
@@ -20554,7 +20516,7 @@ export const emojis: CompressedEmojiData[] = [
       'valentines'
     ],
     sheet: [25, 4],
-    shortName: 'revolving_hearts'
+    shortName: 'revolving-hearts'
   },
   {
     name: 'Heart Decoration',
@@ -20565,14 +20527,14 @@ export const emojis: CompressedEmojiData[] = [
       'like'
     ],
     sheet: [25, 5],
-    shortName: 'heart_decoration'
+    shortName: 'heart-decoration'
   },
   {
     name: 'Heavy Heart Exclamation Mark Ornament',
     unified: '2763-FE0F',
     sheet: [50, 7],
     hidden: ['messenger'],
-    shortName: 'heavy_heart_exclamation_mark_ornament'
+    shortName: 'heavy-heart-exclamation-mark-ornament'
   },
   {
     name: 'Love Letter',
@@ -20585,7 +20547,7 @@ export const emojis: CompressedEmojiData[] = [
       'valentines'
     ],
     sheet: [24, 38],
-    shortName: 'love_letter'
+    shortName: 'love-letter'
   },
   {
     name: 'Sleeping Symbol',
@@ -20636,7 +20598,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F4A6',
     keywords: ['water', 'drip', 'oops'],
     sheet: [25, 12],
-    shortName: 'sweat_drops'
+    shortName: 'sweat-drops'
   },
   {
     name: 'Dash Symbol',
@@ -20676,7 +20638,7 @@ export const emojis: CompressedEmojiData[] = [
       'chatting'
     ],
     sheet: [25, 23],
-    shortName: 'speech_balloon'
+    shortName: 'speech-balloon'
   },
   {
     name: 'Left Speech Bubble',
@@ -20689,7 +20651,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [30, 15],
     hidden: ['messenger'],
-    shortName: 'left_speech_bubble'
+    shortName: 'left-speech-bubble'
   },
   {
     name: 'Right Anger Bubble',
@@ -20702,7 +20664,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [30, 16],
     hidden: ['messenger'],
-    shortName: 'right_anger_bubble'
+    shortName: 'right-anger-bubble'
   },
   {
     name: 'Thought Balloon',
@@ -20715,7 +20677,7 @@ export const emojis: CompressedEmojiData[] = [
       'dream'
     ],
     sheet: [25, 24],
-    shortName: 'thought_balloon'
+    shortName: 'thought-balloon'
   },
   {
     name: 'Hole',
@@ -20749,7 +20711,7 @@ export const emojis: CompressedEmojiData[] = [
     ],
     sheet: [29, 17],
     hidden: ['messenger'],
-    shortName: 'dark_sunglasses'
+    shortName: 'dark-sunglasses'
   },
   {
     name: 'Necktie',
@@ -20863,11 +20825,11 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F45A',
     keywords: [
       'fashion',
-      'shopping_bags',
+      'shopping-bags',
       'female'
     ],
     sheet: [15, 30],
-    shortName: 'womans_clothes'
+    shortName: 'womans-clothes'
   },
   {
     name: 'Purse',
@@ -20910,7 +20872,7 @@ export const emojis: CompressedEmojiData[] = [
     unified: '1F6CD-FE0F',
     sheet: [37, 2],
     hidden: ['messenger'],
-    shortName: 'shopping_bags'
+    shortName: 'shopping-bags'
   },
   {
     name: 'School Satchel',
@@ -20922,7 +20884,7 @@ export const emojis: CompressedEmojiData[] = [
       'backpack'
     ],
     sheet: [8, 37],
-    shortName: 'school_satchel'
+    shortName: 'school-satchel'
   },
   {
     name: 'Mans Shoe',
@@ -20930,7 +20892,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['fashion', 'male'],
     sheet: [15, 34],
     shortNames: ['shoe'],
-    shortName: 'mans_shoe'
+    shortName: 'mans-shoe'
   },
   {
     name: 'Athletic Shoe',
@@ -20941,7 +20903,7 @@ export const emojis: CompressedEmojiData[] = [
       'sneakers'
     ],
     sheet: [15, 35],
-    shortName: 'athletic_shoe'
+    shortName: 'athletic-shoe'
   },
   {
     name: 'High-Heeled Shoe',
@@ -20954,7 +20916,7 @@ export const emojis: CompressedEmojiData[] = [
       'stiletto'
     ],
     sheet: [15, 36],
-    shortName: 'high_heel'
+    shortName: 'high-heel'
   },
   {
     name: 'Womans Sandal',
@@ -20998,7 +20960,7 @@ export const emojis: CompressedEmojiData[] = [
       'spring'
     ],
     sheet: [15, 22],
-    shortName: 'womans_hat'
+    shortName: 'womans-hat'
   },
   {
     name: 'Top Hat',
@@ -21028,21 +20990,21 @@ export const emojis: CompressedEmojiData[] = [
       'education'
     ],
     sheet: [8, 38],
-    shortName: 'mortar_board'
+    shortName: 'mortar-board'
   },
   {
     name: 'Billed Cap',
     unified: '1F9E2',
     sheet: [46, 24],
     hidden: ['messenger'],
-    shortName: 'billed_cap'
+    shortName: 'billed-cap'
   },
   {
     name: 'Helmet with White Cross',
     unified: '26D1-FE0F',
     sheet: [48, 33],
     hidden: ['messenger'],
-    shortName: 'helmet_with_white_cross'
+    shortName: 'helmet-with-white-cross'
   },
   {
     name: 'Prayer Beads',
@@ -21050,7 +21012,7 @@ export const emojis: CompressedEmojiData[] = [
     keywords: ['dhikr', 'religious'],
     sheet: [27, 1],
     hidden: ['messenger'],
-    shortName: 'prayer_beads'
+    shortName: 'prayer-beads'
   },
   {
     name: 'Lipstick',
