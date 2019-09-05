@@ -1,6 +1,6 @@
 import { async, inject, TestBed } from '@angular/core/testing';
 
-import { EmojiData } from '@ctrl/ngx-emoji-mart/ngx-emoji';
+import { EmojiData } from 'ngx-emoji-mart-picker/ngx-emoji';
 import { EmojiSearch } from './emoji-search.service';
 
 describe('EmojiSearch', () => {
@@ -53,11 +53,11 @@ describe('EmojiSearch', () => {
     },
   ));
 
-  it('can search for thinking_face', inject(
+  it('can search for thinking-face', inject(
     [EmojiSearch],
     (es: EmojiSearch) => {
-      expect(es.search('thinking_fac').map((x: any) => x.id)).toEqual([
-        'thinking_face',
+      expect(es.search('thinking-fac').map((x: any) => x.id)).toEqual([
+        'thinking-face',
       ]);
     },
   ));

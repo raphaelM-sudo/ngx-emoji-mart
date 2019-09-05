@@ -4,7 +4,7 @@ import {
   categories,
   EmojiData,
   EmojiService,
-} from '@ctrl/ngx-emoji-mart/ngx-emoji';
+} from 'ngx-emoji-mart-picker/ngx-emoji';
 import { intersect } from './utils';
 
 @Injectable({ providedIn: 'root' })

@@ -1,7 +1,5 @@
 import { async, TestBed } from '@angular/core/testing';
 
-import { MdoButtonModule } from '@ctrl/ngx-github-buttons';
-
 import { PickerModule } from '../lib/picker/picker.module';
 import { AppComponent } from './app.component';
 import { FooterComponent } from './footer.component';
@@ -9,7 +7,7 @@ import { FooterComponent } from './footer.component';
 describe('AppComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      imports: [PickerModule, MdoButtonModule],
+      imports: [PickerModule],
       declarations: [AppComponent, FooterComponent],
     }).compileComponents();
   }));
