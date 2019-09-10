@@ -2,7 +2,6 @@ import { categories, EmojiData, EmojiService } from 'ngx-emoji-mart-picker/ngx-e
 
 import { Injectable } from '@angular/core';
 
-import { EMOJI_COLON } from '../emoji/emoji.service';
 import { intersect } from './utils';
 
 @Injectable({ providedIn: 'root' })
@@ -61,7 +60,7 @@ export class EmojiSearch {
 
     if (value.length) {
 
-      value = value.replace(new RegExp(`\\${EMOJI_COLON}`, 'g'), '');
+      value = value.replace(/\*/g, '');
 
       if (value === '-' || value === '-1') {
         return [this.emojisList['-1']];
