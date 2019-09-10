@@ -8,13 +8,13 @@ NPM: [@ctrl/ngx-emoji-mart](https://www.npmjs.com/package/@ctrl/ngx-emoji-mart)
 
 The reason for this fork is to be able to use emoticons and short names of emojis within a content editable text area.
 So it is possible to write e.g.
-  ':)' and replace it with the proper emoji (the unicode 🙂 or any other of emoji-mart's sets)
+<code>':)'</code> and replace it with the proper emoji (the unicode 🙂 or any other of emoji-mart's sets)
 or
-<code>'\*hear-eyes\*'</code> and replace it with 😍 or any set of emojis.
+<code>'\*heart-eyes\*'</code> and replace it with 😍 or any set of emojis.
 
 This was also possible in the original, but the pre- and postfix of the displayed emojis in the preview was a colon which was interfering with emoticons e.g.
 
-<code>':o' and ':octopus\:'</code>
+<code>':o' and '\:octopus\:'</code>
 
 or
 
