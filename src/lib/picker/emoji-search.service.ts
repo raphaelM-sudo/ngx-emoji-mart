@@ -1,10 +1,8 @@
+import { categories, EmojiData, EmojiService } from 'ngx-emoji-mart-picker/ngx-emoji';
+
 import { Injectable } from '@angular/core';
 
-import {
-  categories,
-  EmojiData,
-  EmojiService,
-} from 'ngx-emoji-mart-picker/ngx-emoji';
+import { EMOJI_COLON } from '../emoji/emoji.service';
 import { intersect } from './utils';
 
 @Injectable({ providedIn: 'root' })
@@ -62,6 +60,9 @@ export class EmojiSearch {
     let pool = this.originalPool;
 
     if (value.length) {
+
+      value = value.replace(new RegExp(`\\${EMOJI_COLON}`, 'g'), '');
+
       if (value === '-' || value === '-1') {
         return [this.emojisList['-1']];
       }
@@ -69,7 +70,7 @@ export class EmojiSearch {
         return [this.emojisList['+1']];
       }
 
-      let values = value.replace(/\*/g, '').toLowerCase().split(/[\s|,|\-|_]+/);
+      let values = value.toLowerCase().split(/[\s|,|\-|_]+/);
       let allResults = [];
 
       if (values.length > 2) {

@@ -29,7 +29,7 @@ describe('EmojiSearch', () => {
       emoticons: [],
       hidden: [],
       text: '',
-      colons: ':pineapple:',
+      colons: '*pineapple*',
       set: '',
     });
   }));
@@ -67,6 +67,15 @@ describe('EmojiSearch', () => {
     (es: EmojiSearch) => {
       expect(es.search('woman-facep').map(x => x.id)).toEqual([
         'woman-facepalming',
+      ]);
+    },
+  ));
+
+  it('can search for *-1*', inject(
+    [EmojiSearch],
+    (es: EmojiSearch) => {
+      expect(es.search('*-1*').map(x => x.id)).toEqual([
+        '-1',
       ]);
     },
   ));

@@ -8,7 +8,9 @@ import {
 import { emojis } from './data/emojis';
 import { Emoji } from './emoji.component';
 
-const COLONS_REGEX = /^(?:\:([^\:]+)\:)(?:\:skin-tone-(\d)\:)?$/;
+export const EMOJI_COLON = '*';
+export const SKIN_TONE_COLON = ':';
+const COLONS_REGEX = new RegExp(`^(?:\\${EMOJI_COLON}([^\\${EMOJI_COLON}]+)\\${EMOJI_COLON})(?:\\${SKIN_TONE_COLON}skin-tone-(\\d)\\${SKIN_TONE_COLON})?$`);
 const SKINS = ['1F3FA', '1F3FB', '1F3FC', '1F3FD', '1F3FE', '1F3FF'];
 export const DEFAULT_BACKGROUNDFN = (
   set: string,
@@ -165,9 +167,9 @@ export class EmojiService {
       return null;
     }
     const id = emoji.id || emoji.shortNames[0];
-    let colons = `:${id}:`;
+    let colons = `${EMOJI_COLON}${id}${EMOJI_COLON}`;
     if (emoji.skinTone) {
-      colons += `:skin-tone-${emoji.skinTone}:`;
+      colons += `${SKIN_TONE_COLON}skin-tone-${emoji.skinTone}${SKIN_TONE_COLON}`;
     }
     emoji.colons = colons;
     return { ...emoji };

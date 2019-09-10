@@ -9,18 +9,6 @@ const CUSTOM_EMOJIS = [
     imageUrl: './assets/images/parrot.gif',
   },
   {
-    name: 'Octocat',
-    shortNames: ['octocat'],
-    keywords: ['github'],
-    imageUrl: 'https://assets-cdn.github.com/images/icons/emoji/octocat.png?v7',
-  },
-  {
-    name: 'Squirrel',
-    shortNames: ['shipit', 'squirrel'],
-    keywords: ['github'],
-    imageUrl: 'https://assets-cdn.github.com/images/icons/emoji/shipit.png?v7',
-  },
-  {
     name: 'Test Flag',
     shortNames: ['test'],
     keywords: ['test', 'flag'],
