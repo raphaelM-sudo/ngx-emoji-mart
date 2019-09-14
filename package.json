@@ -1,5 +1,5 @@
 {
-  "name": "ngx-emoji-mart-picker",
+  "name": "@nutrify/ngx-emoji-mart-picker",
   "version": "0.0.0-placeholder",
   "license": "MIT",
   "scripts": {
@@ -16,7 +16,6 @@
     "ghpages": "ng build --prod --no-progress",
     "semantic-release": "cd dist/packages-dist && semantic-release"
   },
-  "private": true,
   "dependencies": {
     "@angular/common": "8.2.4",
     "@angular/compiler": "8.2.4",

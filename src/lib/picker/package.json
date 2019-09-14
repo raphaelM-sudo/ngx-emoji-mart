@@ -1,11 +1,11 @@
 {
   "$schema": "../../../node_modules/ng-packagr/package.schema.json",
-  "name": "ngx-emoji-mart-picker",
-  "version": "0.0.0",
+  "name": "@nutrify/ngx-emoji-mart-picker",
+  "version": "1.0.0",
   "publishConfig": {
     "access": "public"
   },
-  "description": "Customizable Slack-like emoji picker for Angular",
+  "description": "Unmaintained fork of ngx-emoji-mart",
   "peerDependencies": {
     "@angular/core": ">=8.0.0-0",
     "@angular/common": ">=8.0.0-0"
@@ -25,9 +25,5 @@
     },
     "dest": "../../../dist/picker"
   },
-  "keywords": [
-    "angular",
-    "emoji",
-    "picker"
-  ]
+  "keywords": []
 }
