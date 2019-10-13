@@ -1,4 +1,4 @@
-import { categories, EmojiData, EmojiService } from 'ngx-emoji-mart-picker/ngx-emoji';
+import { categories, EmojiData, EmojiService } from '@nutrify/ngx-emoji-mart-picker/ngx-emoji';
 
 import { Injectable } from '@angular/core';
 

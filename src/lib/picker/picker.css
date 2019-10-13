@@ -16,6 +16,7 @@
 
 .emoji-mart .emoji-mart-emoji {
   padding: 6px;
+  outline: none;
 }
 
 .emoji-mart-bar {
@@ -157,10 +158,13 @@
   border: none;
   background: none;
   box-shadow: none;
+  outline: none;
+  vertical-align: middle;
 }
 
 .emoji-mart-emoji-native {
   font-family: "Segoe UI Emoji", "Segoe UI Symbol", "Segoe UI", "Apple Color Emoji", "Twemoji Mozilla", "Noto Color Emoji", "EmojiOne Color", "Android Emoji";
+
 }
 .emoji-mart-no-results {
   font-size: 14px;
@@ -296,6 +300,7 @@
   width: 100%; padding-top: 100%;
   max-width: 12px;
   border-radius: 100%;
+  outline: none;
 }
 
 .emoji-mart-skin-tone-1 { background-color: #ffc93a }

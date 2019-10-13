@@ -1,7 +1,6 @@
-import { EmojiData } from 'ngx-emoji-mart-picker/ngx-emoji';
-
 import { async, inject, TestBed } from '@angular/core/testing';
 
+import { EmojiData } from './data/data.interfaces';
 import { EMOJI_COLON, EmojiService } from './emoji.service';
 
 function hasPartiallyMatchingEmoji(emoji1: EmojiData) {

@@ -8,7 +8,7 @@ import {
   Output,
 } from '@angular/core';
 
-import { Emoji, EmojiData, EmojiService } from 'ngx-emoji-mart-picker/ngx-emoji';
+import { Emoji, EmojiData, EmojiService } from '@nutrify/ngx-emoji-mart-picker/ngx-emoji';
 
 @Component({
   selector: 'emoji-preview',
@@ -23,13 +23,13 @@ import { Emoji, EmojiData, EmojiService } from 'ngx-emoji-mart-picker/ngx-emoji'
         [size]="emojiSize"
         [set]="emojiSet"
         [sheetSize]="emojiSheetSize"
-        [backgroundImageFn]="emojiBackgroundImageFn"
-      ></ngx-emoji>
+        [backgroundImageFn]="emojiBackgroundImageFn">
+      </ngx-emoji>
     </div>
 
     <div class="emoji-mart-preview-data">
       <div class="emoji-mart-preview-name">{{ emojiData.name }}</div>
-      <div *ngIf="listedEmoticons.length === 0" class="emoji-mart-preview-shortnames">
+      <div *ngIf="!displayEmoticonOnly || listedEmoticons.length === 0" class="emoji-mart-preview-shortnames">
         <span class="emoji-mart-preview-shortname" *ngFor="let short_name of emojiData.shortNames">
           *{{ short_name }}*
         </span>
@@ -49,9 +49,8 @@ import { Emoji, EmojiData, EmojiService } from 'ngx-emoji-mart-picker/ngx-emoji'
         [skin]="emojiSkin"
         [set]="emojiSet"
         [emoji]="idleEmoji"
-        [backgroundImageFn]="emojiBackgroundImageFn"
-        [size]="38"
-      ></ngx-emoji>
+        [backgroundImageFn]="emojiBackgroundImageFn">
+      </ngx-emoji>
     </div>
 
     <div class="emoji-mart-preview-data">
@@ -59,8 +58,7 @@ import { Emoji, EmojiData, EmojiService } from 'ngx-emoji-mart-picker/ngx-emoji'
     </div>
 
     <div class="emoji-mart-preview-skins">
-      <emoji-skins [skin]="emojiSkin" (changeSkin)="skinChange.emit($event)" [i18n]="i18n">
-      </emoji-skins>
+      <emoji-skins [skin]="emojiSkin" (changeSkin)="skinChange.emit($event)" [i18n]="i18n"></emoji-skins>
     </div>
   </div>
   `,
@@ -78,6 +76,7 @@ export class PreviewComponent implements OnChanges {
   @Input() emojiSet?: Emoji['set'];
   @Input() emojiSheetSize?: Emoji['sheetSize'];
   @Input() emojiBackgroundImageFn?: Emoji['backgroundImageFn'];
+  @Input() displayEmoticonOnly = false;
   @Output() skinChange = new EventEmitter<number>();
   emojiData: Partial<EmojiData> = {};
   listedEmoticons?: string[];

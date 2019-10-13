@@ -17,6 +17,7 @@ export const DEFAULT_BACKGROUNDFN = (
   sheetSize: number,
 ) => `https://unpkg.com/emoji-datasource-${set}@4.0.4/img/${set}/sheets-256/${sheetSize}.png`;
 
+
 @Injectable({ providedIn: 'root' })
 export class EmojiService {
   uncompressed = false;
@@ -32,7 +33,9 @@ export class EmojiService {
 
   uncompress(list: CompressedEmojiData[]) {
     this.emojis = list.map(emoji => {
+
       const data: any = { ...emoji };
+
       if (!data.shortNames) {
         data.shortNames = [];
       }
@@ -73,11 +76,42 @@ export class EmojiService {
       }
 
       this.names[data.unified] = data;
+
       for (const n of data.shortNames) {
         this.names[n] = data;
       }
+
       return data;
     });
+  }
+
+  unifiedToNative(unified: string) {
+    const codePoints = unified.split('-').map(u => parseInt(`0x${u}`, 16));
+    return String.fromCodePoint(...codePoints);
+  }
+
+  emojiSpriteStyles(
+    sheet: EmojiData['sheet'],
+    set: Emoji['set'] = 'apple',
+    size: Emoji['size'] = 24,
+    sheetSize: Emoji['sheetSize'] = 64,
+    backgroundImageFn: Emoji['backgroundImageFn'] = DEFAULT_BACKGROUNDFN,
+    sheetColumns = 52,
+    ) {
+    return {
+      width: `${size}px`,
+      height: `${size}px`,
+      display: 'inline-block',
+      'background-image': `url(${backgroundImageFn(set, sheetSize)})`,
+      'background-size': `${100 * sheetColumns}%`,
+      'background-position': this.getSpritePosition(sheet, sheetColumns),
+    };
+  }
+
+  getSpritePosition(sheet: EmojiData['sheet'], sheetColumns: number) {
+    const [sheetX, sheetY] = sheet;
+    const multiply = 100 / (sheetColumns - 1);
+    return `${multiply * sheetX}% ${multiply * sheetY}%`;
   }
 
   getData(
@@ -131,35 +165,6 @@ export class EmojiService {
 
     emojiData.set = set || '';
     return emojiData as EmojiData;
-  }
-
-  unifiedToNative(unified: string) {
-    const codePoints = unified.split('-').map(u => parseInt(`0x${u}`, 16));
-    return String.fromCodePoint(...codePoints);
-  }
-
-  emojiSpriteStyles(
-    sheet: EmojiData['sheet'],
-    set: Emoji['set'] = 'apple',
-    size: Emoji['size'] = 24,
-    sheetSize: Emoji['sheetSize'] = 64,
-    backgroundImageFn: Emoji['backgroundImageFn'] = DEFAULT_BACKGROUNDFN,
-    sheetColumns = 52,
-    ) {
-    return {
-      width: `${size}px`,
-      height: `${size}px`,
-      display: 'inline-block',
-      'background-image': `url(${backgroundImageFn(set, sheetSize)})`,
-      'background-size': `${100 * sheetColumns}%`,
-      'background-position': this.getSpritePosition(sheet, sheetColumns),
-    };
-  }
-
-  getSpritePosition(sheet: EmojiData['sheet'], sheetColumns: number) {
-    const [sheetX, sheetY] = sheet;
-    const multiply = 100 / (sheetColumns - 1);
-    return `${multiply * sheetX}% ${multiply * sheetY}%`;
   }
 
   sanitize(emoji: EmojiData | null): EmojiData | null {

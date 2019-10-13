@@ -4,7 +4,7 @@
     "outDir": "./out-tsc/app",
     "types": [],
     "paths": {
-      "ngx-emoji-mart-picker/ngx-emoji": ["./src/lib/emoji/public_api"]
+      "@nutrify/ngx-emoji-mart-picker/ngx-emoji": ["./src/lib/emoji/public_api"]
     }
   },
   "files": [

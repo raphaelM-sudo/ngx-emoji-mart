@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 
-import { EmojiData } from 'ngx-emoji-mart-picker/ngx-emoji';
+import { EmojiData } from '@nutrify/ngx-emoji-mart-picker/ngx-emoji';
 
 @Injectable({ providedIn: 'root' })
 export class EmojiFrequentlyService {

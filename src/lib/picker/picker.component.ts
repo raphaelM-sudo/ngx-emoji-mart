@@ -18,7 +18,7 @@ import {
   EmojiCategory,
   EmojiData,
   EmojiEvent,
-} from 'ngx-emoji-mart-picker/ngx-emoji';
+} from '@nutrify/ngx-emoji-mart-picker/ngx-emoji';
 import { CategoryComponent } from './category.component';
 import { EmojiFrequentlyService } from './emoji-frequently.service';
 import { PreviewComponent } from './preview.component';
@@ -93,6 +93,7 @@ export class PickerComponent implements OnInit {
   @Input() categoriesIcons = icons.categories;
   @Input() searchIcons = icons.search;
   @Input() showSingleCategory = false;
+  @Input() displayEmoticonOnly = false;
   @Output() emojiClick = new EventEmitter<any>();
   @Output() emojiSelect = new EventEmitter<any>();
   @Output() skinChange = new EventEmitter<Emoji['skin']>();

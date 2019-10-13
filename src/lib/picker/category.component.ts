@@ -10,7 +10,7 @@ import {
   ViewChild,
 } from '@angular/core';
 
-import { Emoji, EmojiService } from 'ngx-emoji-mart-picker/ngx-emoji';
+import { Emoji, EmojiService } from '@nutrify/ngx-emoji-mart-picker/ngx-emoji';
 import { EmojiFrequentlyService } from './emoji-frequently.service';
 
 @Component({

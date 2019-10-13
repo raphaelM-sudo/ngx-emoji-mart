@@ -6,7 +6,7 @@ import * as del from 'del';
 async function main() {
   // cleanup dist
   del.sync(join(process.cwd(), '/dist'));
-  del.sync(join(process.cwd(), '/node_modules/ngx-emoji-mart-picker'));
+  del.sync(join(process.cwd(), '/node_modules/@nutrify/ngx-emoji-mart-picker'));
 
   // make emoi
   await ngPackagr()
@@ -17,7 +17,7 @@ async function main() {
   // proper path support eventually
   copySync(
     join(process.cwd(), '/dist/emoji'),
-    join(process.cwd(), '/node_modules/ngx-emoji-mart-picker/ngx-emoji'),
+    join(process.cwd(), '/node_modules/@nutrify/ngx-emoji-mart-picker/ngx-emoji'),
   );
   copySync(
     join(process.cwd(), '/dist/emoji'),

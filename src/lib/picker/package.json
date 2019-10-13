@@ -20,7 +20,7 @@
       "entryFile": "public_api.ts",
       "languageLevel": ["dom", "es2017"],
       "umdModuleIds": {
-        "ngx-emoji-mart-picker/ngx-emoji": "ngx-emoji-mart-picker/ngx-emoji"
+        "@nutrify/ngx-emoji-mart-picker/ngx-emoji": "@nutrify/ngx-emoji-mart-picker/ngx-emoji"
       }
     },
     "dest": "../../../dist/picker"

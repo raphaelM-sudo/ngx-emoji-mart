@@ -47,7 +47,7 @@ export interface EmojiEvent {
     (click)="handleClick($event)"
     (mouseenter)="handleOver($event)"
     (mouseleave)="handleLeave($event)"
-    [title]="title"
+    [attr.title]="title"
     [attr.aria-label]="label"
     class="emoji-mart-emoji"
     [class.emoji-mart-emoji-native]="isNative"
@@ -80,7 +80,7 @@ export class EmojiComponent implements OnChanges, Emoji {
   @Output() emojiLeave: Emoji['emojiLeave'] = new EventEmitter();
   @Output() emojiClick: Emoji['emojiClick'] = new EventEmitter();
   style: any;
-  title = '';
+  title: string = null;
   label = '';
   unified?: string | null;
   custom = false;
@@ -120,27 +120,33 @@ export class EmojiComponent implements OnChanges, Emoji {
 
     if (this.isNative && data.unified && data.native) {
       // hide older emoji before the split into gendered emoji
-      this.style = { fontSize: `${this.size}px` };
+      this.style = {
+        fontSize: '1rem',
+        width: '24px',
+        height: '24px',
+        display: 'inline-block',
+        'text-align': 'center',
+        'line-height': '24px',
+        'word-break': 'keep-all'
+      };
 
       if (this.forceSize) {
-        this.style.display = 'inline-block';
         this.style.width = `${this.size}px`;
         this.style.height = `${this.size}px`;
-        this.style['word-break'] = 'keep-all';
+        this.style['line-height'] = `${this.size}px`;
       }
     } else if (data.custom) {
       this.style = {
         width: `${this.size}px`,
         height: `${this.size}px`,
-        display: 'inline-block',
+        display: 'inline-block'
       };
-      if (data.spriteUrl && this.sheetRows && this.sheetColumns) {
+      if (data.spriteUrl && data.sheetRows && data.sheetColumns) {
         this.style = {
           ...this.style,
           backgroundImage: `url(${data.spriteUrl})`,
-          backgroundSize: `${100 * this.sheetColumns}% ${100 *
-            this.sheetRows}%`,
-          backgroundPosition: this.emojiService.getSpritePosition(data.sheet, this.sheetColumns),
+          backgroundSize: `${100 * data.sheetColumns}% ${100 * data.sheetRows}%`,
+          backgroundPosition: this.emojiService.getSpritePosition([data.sheet_x, data.sheet_y], data.sheetColumns),
         };
       } else {
         this.style = {
